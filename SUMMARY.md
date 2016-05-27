@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Glossary of Terms](chapter1.md)
-* Tola Tables
+* [Tola Tables](tola_tables.md)
 * Tola Table Overview
 * Tola Activity Overview
 
