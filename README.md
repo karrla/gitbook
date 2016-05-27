@@ -6,15 +6,16 @@ Link back to Tola Data sections
 
 Edited: 4.16.16 This is a living document. If you have any questions, find missing information, or would like to contribute please let us know. Tola.work
 
-Sign up for the Tola Newsletter to stay on top of what new with Tola!
+Sign up for the [Tola Newsletter](http://toladata.us12.list-manage1.com/subscribe?u=e34c5be0454e41216568f68e6&id=c7456e1c60) to stay on top of what new with Tola!
 
-Tola Overviews
-Tola Tables Overview
-Tola Activity Overview
-Dig and Alpha Indicators (Mercy Corps Internal Site)
-Tola Data public site
-What's new in Tola
-Tola Tables  Importing, Merging, Sharing
+* Tola Overviews
+* Tola Tables Overview
+* Tola Activity Overview
+* Dig and Alpha Indicators (Mercy Corps Internal Site)
+* Tola Data public site
+* What's new in Tola
+* Tola Tables  Importing, Merging, Sharing
+
 
 
 
