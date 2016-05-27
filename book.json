@@ -3,7 +3,8 @@
         "search",
         "theme-faq",
         "customtheme",
-        "fontsettings"
+        "fontsettings",
+        "theme-official"
     ],
     "pluginsConfig": {}
 }
