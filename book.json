@@ -1,7 +1,8 @@
 {
     "plugins": [
         "search",
-        "theme-faq"
+        "theme-faq",
+        "customtheme"
     ],
     "pluginsConfig": {}
 }
