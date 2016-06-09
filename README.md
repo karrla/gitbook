@@ -4,9 +4,17 @@
 
 Link back to Tola Data sections
 
+
+---
+
+
 Edited: 4.16.16 This is a living document. If you have any questions, find missing information, or would like to contribute please let us know. Tola.work
 
 Sign up for the [Tola Newsletter](http://toladata.us12.list-manage1.com/subscribe?u=e34c5be0454e41216568f68e6&id=c7456e1c60) to stay on top of what new with Tola!
+
+
+---
+
 
 * Tola Overviews
 * Tola Tables Overview
@@ -19,17 +27,48 @@ Sign up for the [Tola Newsletter](http://toladata.us12.list-manage1.com/subscrib
 
 
 
-Tola Workflow
-Site Profile
+
+
+
+##  **Tola Workflow**
+
+
+
+
+
+
+
+
+### **Site Profile**
+
+
+
 Documents basic information about a geographic location we work in, the GPS coordinates of that location, and basic demographic information if relevant. This documents the WHERE. 
-Stakeholder profile
+
+
+### **Stakeholder profile**
+
+
+
 Documents primary stakeholders we work with (partners, communities, businesses/entities, etc.) and information about them. This documents the WHO.
-Project agreement
+
+### Project agreement
+
+
 Initiates the start of a project and describes the justification, start, and end date, estimated budget, and approvals for any project.  This documents the WHAT and links to the site and stakeholder profiles. 
-Project Completion
+
+
+### **Project Completion**
+
+
+
 Completed after the end of a project and documents what actually happened (dates, budget, results) compared to what was estimated in the agreement form. Additionally, it also documents the impact of the project and any lessons learned or issues/challenges. 
 
-Indicators 
+
+### **Indicators** 
+
+
+
 Mercy Corps Indicator Plan Template - DME Google Drive
 Linking Evidence in Tola 
 
@@ -39,8 +78,21 @@ Slack Tola-User Community
 Tola Public Folder on Google Drive
 Tola Tables Quick How-Tos
 
-Help! 
-Reporting Errors, Requesting Features, and Providing Feedback. 
+
+---
+
+
+
+
+## **Help!**
+
+
+
+
+### **Reporting Errors, Requesting Features, and Providing Feedback. **
+
+
+
 We welcome and encourage your feedback and requests. Please provide requests and feedback through the following tools/channels. For the best response, please follow the "how to
 
 Tola-Users Slack channel Join the discussions about Tola with other Tola users
@@ -58,8 +110,12 @@ Bad request:
 Good Request: 
 When clicking the submit button under Project (ID Number) > Program Agreement (Name)  > Executive Summary, I received the following error.  <paste in the error> 
 
-Type of Tickets: definitions
-Problem: Requesting help with something you are having an issue with.
+
+## ****Type of Tickets: definitions****
+
+
+
+**Problem:** Requesting help with something you are having an issue with.
 Error/Bug: If you receive and error or there is unexpected behavior
 Enhancement: Anything you'd like to see added or changed, but is not broken. Enhancements requests need votes to get pushed up to the Tola.Work queue
 
