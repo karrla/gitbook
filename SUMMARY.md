@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [TolaData](toladata.md)
 * [Tola Activity Overview](tola_activity_overview.md)
-   * New Releases
 * [Glossary of Terms](chapter1.md)
+* New Releases
 * [Tola Table Overview](tola_table_overview.md)
 
