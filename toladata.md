@@ -16,7 +16,7 @@ Sign up for the [Tola Newsletter](http://toladata.us12.list-manage1.com/subscrib
 
 
 * Tola Overviews
-* Tola Tables Overview
+* [Tola Tables Overview](https://www.gitbook.com/book/karrlasandstrom/tola-data/edit#/edit/master/tola_table_overview.md)
 * Tola Activity Overview
 * Dig and Alpha Indicators (Mercy Corps Internal Site)
 * Tola Data public site
