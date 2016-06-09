@@ -8,4 +8,5 @@
        * [Tola Table Overview](tola_table_overview.md)
        * [New Releases](new_releases.md)
    * How-To-Documentation
+   * Support and Feedback
 
