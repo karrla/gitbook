@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * How-To-Documentation
 * [TolaData](toladata.md)
    * [What's New in TolaData?](whats_new_in_toladata.md)
    * [Glossary of Terms](chapter1.md)
