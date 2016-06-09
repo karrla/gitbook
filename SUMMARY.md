@@ -7,6 +7,6 @@
        * [Tola Activity Overview](tola_activity_overview.md)
        * [Tola Table Overview](tola_table_overview.md)
        * [New Releases](new_releases.md)
-   * How-To-Documentation
+   * [How-To-Documentation](how-to-documentation.md)
    * Support and Feedback
 
