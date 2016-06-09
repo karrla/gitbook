@@ -12,7 +12,6 @@ Edited: 4.16.16 This is a living document. If you have any questions, find missi
 
 Sign up for the [Tola Newsletter](http://toladata.us12.list-manage1.com/subscribe?u=e34c5be0454e41216568f68e6&id=c7456e1c60) to stay on top of what new with Tola!
 
-
 ---
 
 
