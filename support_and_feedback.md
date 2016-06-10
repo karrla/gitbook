@@ -51,3 +51,19 @@ If you would like to add to the screencast, please help us out and create your o
 
  See out YouTube Channel!
 The channel includes how to steps on: linking evidence, filling in the project agreement and completion forms, creating custom and standard indicators, a full demo of Tola activity and Tola Tables and many more. 
+
+
+Tola Activity Admin
+General information about the Tola admin console
+Admin URL 
+https://tola-activity.mercycorps.org/admin
+Admin Training 
+If you need access to the Admin console, please request access and we will provide you with more details on administering Tola for your team
+User Groups
+User Admin: Administers Users Permissions in Tola
+Approver: Received notifications when a Project Agreement is set to pending approval
+GIS Approver: Can create and add Sites
+Editor: Can access most pages, but cannot approve or create Sites
+View Only: View only, cannot make changes to the system 
+Approval Authority Matrix
+The Authority Approval Matrix will be set up by your Tola Admin
