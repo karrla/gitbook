@@ -5,7 +5,8 @@
         "page-toc",
         "structured-toc",
         "catalog",
-        "collapsible-menu"
+        "collapsible-menu",
+        "exercises"
     ],
     "pluginsConfig": {}
 }
