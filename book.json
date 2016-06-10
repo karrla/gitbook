@@ -6,8 +6,7 @@
         "page-toc",
         "structured-toc",
         "catalog",
-        "collapsible-menu",
-        "comment"
+        "collapsible-menu"
     ],
     "pluginsConfig": {}
 }
