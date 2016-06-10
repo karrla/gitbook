@@ -1,11 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [About TolaData](toladata.md)
-   * [Overviews](overviews.md)
-       * [Workflow](workflow.md)
-       * [TolaTable Overview](tola_table_overview.md)
-       * [Tola Activity Overview](tola_activity_overview.md)
+* [TolaData](toladata.md)
+  * [Workflow](workflow.md)
+  * [TolaTable Overview](tola_table_overview.md)
+  * [Tola Activity Overview](tola_activity_overview.md)
    * [History of TolaData](history_of_toladata.md)
    * [Glossary of Terms](chapter1.md)
 * [New Releases](new_releases.md)
