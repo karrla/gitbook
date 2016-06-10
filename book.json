@@ -1,7 +1,6 @@
 {
     "plugins": [
         "search",
-        "theme-faq",
         "page-toc",
         "structured-toc",
         "catalog",
