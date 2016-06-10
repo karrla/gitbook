@@ -6,7 +6,8 @@
         "structured-toc",
         "catalog",
         "collapsible-menu",
-        "exercises"
+        "exercises",
+        "fontsettings"
     ],
     "pluginsConfig": {}
 }
