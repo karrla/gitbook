@@ -1,15 +1,5 @@
 {
     "plugins": [
-        "page-toc",
-        "structured-toc",
-        "catalog",
-        "collapsible-menu",
-        "exercises",
-        "fontsettings",
-        "indexes",
-        "youtube",
-        "outline",
-        "styleguide"
     ],
     "pluginsConfig": {}
 }
