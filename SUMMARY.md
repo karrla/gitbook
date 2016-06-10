@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [About TolaData](toladata.md)
-   * History of TolaData
+   * [History of TolaData](history_of_toladata.md)
    * [Overviews](overviews.md)
        * [Workflow](workflow.md)
        * [TolaTable Overview](tola_table_overview.md)
