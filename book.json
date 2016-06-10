@@ -10,7 +10,8 @@
         "fontsettings",
         "indexes",
         "youtube",
-        "outline"
+        "outline",
+        "styleguide"
     ],
     "pluginsConfig": {}
 }
