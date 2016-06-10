@@ -29,20 +29,7 @@ Sign up for the [Tola Newsletter](http://toladata.us12.list-manage1.com/subscrib
 
 
 
-Tola Activity Admin
-General information about the Tola admin console
-Admin URL 
-https://tola-activity.mercycorps.org/admin
-Admin Training 
-If you need access to the Admin console, please request access and we will provide you with more details on administering Tola for your team
-User Groups
-User Admin: Administers Users Permissions in Tola
-Approver: Received notifications when a Project Agreement is set to pending approval
-GIS Approver: Can create and add Sites
-Editor: Can access most pages, but cannot approve or create Sites
-View Only: View only, cannot make changes to the system 
-Approval Authority Matrix
-The Authority Approval Matrix will be set up by your Tola Admin
+
 
 
 
