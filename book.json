@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "search",
         "page-toc",
         "structured-toc",
         "catalog",
