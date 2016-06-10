@@ -5,7 +5,8 @@
         "customtheme",
         "page-toc",
         "structured-toc",
-        "catalog"
+        "catalog",
+        "collapsible-menu"
     ],
     "pluginsConfig": {}
 }
