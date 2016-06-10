@@ -4,7 +4,8 @@
         "theme-faq",
         "customtheme",
         "page-toc",
-        "structured-toc"
+        "structured-toc",
+        "catalog"
     ],
     "pluginsConfig": {}
 }
