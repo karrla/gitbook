@@ -2,9 +2,7 @@
     "plugins": [
         "search",
         "theme-faq",
-        "customtheme",
-        "-fontsettings",
-        "-theme-official"
+        "customtheme"
     ],
     "pluginsConfig": {}
 }
