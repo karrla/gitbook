@@ -3,7 +3,8 @@
         "search",
         "theme-faq",
         "customtheme",
-        "page-toc"
+        "page-toc",
+        "structured-toc"
     ],
     "pluginsConfig": {}
 }
