@@ -1,7 +1,7 @@
 {
     "plugins": [
         "addcssjs"{
-    "css": ["css/custom.css"]
+    "css": ["http://toladata.com/stylesheets/app.css"]
   }
     ],
     "pluginsConfig": {}
