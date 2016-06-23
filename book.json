@@ -1,6 +1,8 @@
 {
     "plugins": [
-        "addcssjs"
+        "addcssjs"{
+    "css": ["css/custom.css"]
+  }
     ],
     "pluginsConfig": {}
 }
