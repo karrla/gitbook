@@ -6,6 +6,7 @@
    * [TolaActivity](tolaactivity.md)
        * [TolaActivity Overview](tola_activity_overview.md)
    * [TolaTables](tolatables.md)
+       * delete
    * [TolaTable Overview](tola_table_overview.md)
    * [Glossary of Terms](chapter1.md)
 * [New Releases](new_releases.md)
