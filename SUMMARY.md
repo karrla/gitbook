@@ -4,8 +4,8 @@
 * [TolaData](toladata.md)
    * [TolaData Workflow](workflow.md)
    * [TolaActivity](tolaactivity.md)
+       * [TolaActivity Overview](tola_activity_overview.md)
        * delete
-   * [TolaActivity Overview](tola_activity_overview.md)
    * TolaActivity
    * [TolaTable Overview](tola_table_overview.md)
        * TolaTables
