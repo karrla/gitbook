@@ -1,5 +1,5 @@
 
-
+![](Screen Shot 2016-06-24 at 12.28.29 PM.png)
 
 
 
@@ -7,4 +7,4 @@
 
 
 
-![](tolainfographic.png)
+![](Screen Shot 2016-06-24 at 12.59.13 PM.png)
