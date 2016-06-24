@@ -8,7 +8,7 @@
        * [Evidence](evidence.md)
    * [TolaTables](tolatables.md)
        * [TolaTable Overview](tola_table_overview.md)
-   * [Glossary of Terms](chapter1.md)
+   * [Glossary of Terms](chapter1md.md)
 * [New Releases](new_releases.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Support and Feedback](support_and_feedback.md)
