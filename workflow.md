@@ -1,5 +1,5 @@
 
-#  **Tola Workflow**
+#  **TolaData Workflow**
 
 
 
@@ -38,16 +38,7 @@ Completed after the end of a project and documents what actually happened (dates
 
 
 
-Mercy Corps Indicator Plan Template - DME Google Drive
 Linking Evidence in Tola 
 
-Tola Support Tools
-Tola Work
-Slack Tola-User Community
-Tola Public Folder on Google Drive
-Tola Tables Quick How-Tos
-
-
----
 
 
