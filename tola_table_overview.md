@@ -12,5 +12,9 @@ Each table can be shared as a public repository with other users or exported as 
 Tola Tables also provides direct record editing and clean up within the tool as well as a set of map and merge tools to allow the user to merge multiple data silos into one.
 
 
+##Push, Pull, Merge
+
+![](tola.hackpad.com_BlUMTgJoO8v_p.531143_1466795480076_Screen Shot 2016-06-24 at 12.11.02 PM.png)
+
 
 
