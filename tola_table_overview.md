@@ -9,6 +9,6 @@ Each table can be shared as a public repository with other users or exported as 
 
 Tola Tables also provides direct record editing and clean up within the tool as well as a set of map and merge tools to allow the user to merge multiple data silos into one.
 
-![](20160520 TolaTables Diagram.jpg)
+![](20160520 TolaTables Diagram.jpg
 
 
