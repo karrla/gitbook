@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [TolaData](toladata.md)
    * [TolaData Workflow](workflow.md)
+   * TolaActivity
    * [TolaActivity Overview](tola_activity_overview.md)
        * TolaActivity
    * [TolaTable Overview](tola_table_overview.md)
