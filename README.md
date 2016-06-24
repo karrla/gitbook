@@ -1,5 +1,5 @@
 
-![](Screen Shot 2016-06-24 at 12.28.29 PM.png)
+![](Screen Shot 2016-06-24 at 1.02.25 PM.png)
 
 
 
