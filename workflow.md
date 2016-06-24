@@ -21,13 +21,13 @@ Documents basic information about a geographic location we work in, the GPS coor
 
 Documents primary stakeholders we work with (partners, communities, businesses/entities, etc.) and information about them. This documents the WHO.
 
-### Project agreement
+### Project Initiation
 
 
 Initiates the start of a project and describes the justification, start, and end date, estimated budget, and approvals for any project.  This documents the WHAT and links to the site and stakeholder profiles. 
 
 
-### **Project Completion**
+### **Project Tracking**
 
 
 
@@ -35,8 +35,6 @@ Completed after the end of a project and documents what actually happened (dates
 
 
 ### **Indicators** 
-
-
 
 Linking Evidence in Tola 
 
