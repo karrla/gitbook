@@ -40,7 +40,7 @@ Tola Form Guides
 Guidance to all Tola Activity Forms can be found on each form page by clicking the blue Form Help/Guidance button on the page.
 
 
-           Example of a Form Guide
+           
 Form Guides are also accessible from the Tola Data Public Google Drive folder.
 
 All Form and Form Guides are managed by the Tola project team and need to go through Tola.Work change requests. See Form and Form Guide Change Requests
