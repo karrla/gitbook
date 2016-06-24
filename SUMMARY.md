@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Glossary of Terms](chapter1md.md)
 * [TolaData Workflow](workflow.md)
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
@@ -9,9 +10,6 @@
    * [TolaTable Overview](tola_table_overview.md)
    * [TolaTables: Importing](tolatables_importing.md)
 * [TolaData](toladata.md)
-   * [TolaTables](tolatables.md)
-       * [TolaTable Overview](tola_table_overview.md)
-       * [TolaTables: Importing](tolatables_importing.md)
    * [Glossary of Terms](chapter1md.md)
 * [New Releases](new_releases.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
