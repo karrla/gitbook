@@ -1,10 +1,9 @@
 
 ![](Screen Shot 2016-06-24 at 1.02.25 PM.png)
-
-
-
-##Transforming teams' ability to create
-##data-driven impact.
+###We are building an open-source monitoring and 
+###evaluation platform that streamlines data,
+###brings transparency and builds capacity for 
+###humanitarian projects.
 
 
 
