@@ -4,8 +4,8 @@
 * [TolaData](toladata.md)
    * [TolaData Workflow](workflow.md)
    * [TolaActivity](tolaactivity.md)
+       * Evidence
        * [TolaActivity Overview](tola_activity_overview.md)
-   * Evidence
    * [TolaTables](tolatables.md)
        * [TolaTable Overview](tola_table_overview.md)
    * [Glossary of Terms](chapter1.md)
