@@ -1,6 +1,5 @@
 {
-    "plugins": [
-        "addcssjs"
-    ],
+    "plugins": ["addcssjs"],
     "pluginsConfig": {}
+    "styles": {}
 }
