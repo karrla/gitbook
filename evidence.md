@@ -13,7 +13,7 @@ Each time you enter newly collected data for your Program Indicators in Tola Act
 
 ##Four Types of Evidence
 
-![](tablet-android.png)  ![](sm_tola-tables-icon-blue.png)
+![](sm_tola-tables-icon-blue.png)![](devices.png)
 ###Mobile Data + Table Evidence (tabular)
 Mobile data, survey data, or any other data in spreadsheet format can be imported into TolaTables and then linked to your indicators in TolaActivity. TodayTola Tables allows you to import your data in many formats. 
 
