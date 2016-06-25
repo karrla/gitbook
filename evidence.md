@@ -2,15 +2,16 @@
 
 
 
+  ![](images/sm_tola-activity-icon-orange.png)  ![](images/ic_compare_arrows_black_24dp_2x.png)  ![](images/sm_tola-tables-icon-blue.png) 
+
 Each time you enter newly collected data for your Program Indicators in Tola Activity, you will want to link evidence to that data. Evidence can be in many formats.
 
 
 ---
-
-  ![](images/60x60block.jpg)![](images/sm_tola-activity-icon-orange.png)  ![](images/ic_compare_arrows_black_24dp_2x.png)  ![](images/sm_tola-tables-icon-blue.png) 
-##Four Types of Evidence
+#Four Types of Evidence
 
 ###Type 1: Mobile Data + Table Evidence (tabular)
+
 Data collected through data collection service providers, such as Ona, KoboToolbox, FormHub or other service that can be  other imported into TolaTables and then linked to your indicators in TolaActivity. 
 
 ###Type 2: Spreadsheet + Tables (tabular)
