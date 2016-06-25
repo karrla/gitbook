@@ -1,17 +1,17 @@
 /* CSS for website */
 body {
-	font-family: Verdana;
+	font-family: "Scandia Regular";
 }
 
 a {
-	font-family: Verdana;
+	font-family: "Scandia Regular";
 }
 
 h1 {
-	font-family: "Verdana Bold";
+	font-family: "Scandia Bold";
 }
 
 h2 {
 	color: #686868;
-	font-family: "Verdana Bold";
+	font-family: "Scandia Bold";
 }
