@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [TolaData Workflow](workflow.md)
+   * Indicator Tracking
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
    * [Evidence](evidence.md)
