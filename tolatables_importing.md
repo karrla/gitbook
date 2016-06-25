@@ -3,9 +3,5 @@
 
 ---
 
-
-![Import](images/import.png)
-
-
-
+![](images/import.png)
 
