@@ -4,6 +4,7 @@
 * [TolaData Workflow](workflow.md)
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
+   * Approvals
 * [TolaTables](tolatables.md)
    * [TolaTable Overview](tola_table_overview.md)
    * [TolaTables: Importing](tolatables_importing.md)
