@@ -3,9 +3,8 @@
 #**TolaData Workflow**
 
 
-
-Putting adaptive project management into practice
 <br>
+Putting adaptive project management into practice
 <br>
 <br>
 
