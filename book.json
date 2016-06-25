@@ -5,8 +5,7 @@
         "pdf": "styles/pdf.css",
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
-    }
-}
+ 
     "plugins": [],
     "pluginsConfig": {}
 }
