@@ -1,7 +1,8 @@
 {
     "plugins": [
         "addcssjs",
-        "expandable-chapters"
+        "expandable-chapters",
+        "page-toc"
     ],
     "pluginsConfig": {}
 }
