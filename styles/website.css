@@ -1,6 +1,9 @@
 /* CSS for website */
-{
-    font-family:Heiti SC;
+
+
+body {
+	color: #686868;
+	font-family: "Heiti SC";
     font-size: 14px;
     list-style: none;
     margin: 0;
