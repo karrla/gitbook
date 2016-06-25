@@ -8,7 +8,7 @@ Approval provides teams the ability to manage the acceptance of certain data ent
 
 
 
-**Four states of Tola Activity Approvals: in 
+**Four states of Tola Activity Approvals:
 **
 progress
 awaiting approval
