@@ -1,5 +1,5 @@
 
-![Import](import.png)
+![Import](images/import.png)
 
 #Import Data
 
