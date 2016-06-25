@@ -1,5 +1,4 @@
 {
     "plugins": ["addcssjs"],
     "pluginsConfig": {}
-    "styles": {"website": "styles/website.css"}
 }
