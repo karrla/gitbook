@@ -3,7 +3,7 @@
 #**TolaData Workflow**
 
 
-![TolaWorkflow](workflow.png)
+![TolaWorkflow](images/workflow.png)
 
 
 ### **Site Profile**
