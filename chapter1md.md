@@ -1,2 +1,7 @@
 # Glossary of Terms
 
+
+---
+
+
+
