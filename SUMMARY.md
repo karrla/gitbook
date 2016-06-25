@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 * [TolaData Workflow](workflow.md)
-* [Evidence](evidence.md)
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
    * [Indicator Tracking](indicator_tracking.md)
    * [Approvals](approvals.md)
+* [Evidence](evidence.md)
 * [TolaTables](tolatables.md)
    * [TolaTable Overview](tola_table_overview.md)
    * [TolaTables: Importing](tolatables_importing.md)
