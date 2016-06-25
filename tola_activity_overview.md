@@ -1,5 +1,14 @@
+#Tola Activity
+<br>
+A collection of standardized data forms, reports and visualizations designed to track and the impact of an organizations' programs and projects
 
-![](images/tola_activity_header.png)
+
+
+---
+
+
+
+
 
 ##**Harmonize workflow.**
 Project Workflow is a set of standard forms that are used for project or activity-level management, facilitating traceability of data through documentation of evidence. It utilizes a set of dashboards and reports to track the progress of a project within the standard forms, workflow and process.  Currently, there are four primary forms: 1) Project Initiation, 2) Project Tracking, 3) Site Profile, and 4) Stakeholder Profile. The Site Profile form designates a geographical location and set of contacts within that location where a project or set of projects will be working.  The Stakeholder Profile form indicates who a project will work with and documents the type of relationship we have with them. The Project Initiation form sets the description, budget and analysis points for a project and documents details necessary for planning and implementation of a project.  The Project Tracking form documents the conclusions of the project and the variance between the Initiation (estimates) and the final state of the project (actuals).
