@@ -6,7 +6,7 @@
 ---
 
 
-![](images/dashboard.png)
+![](images/workflow.png)
 
 
 
