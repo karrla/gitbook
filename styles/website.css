@@ -1,12 +1,59 @@
 /* CSS for website */
 
-
+/* CSS for website */
 body {
 	color: #686868;
 	font-family: "Heiti SC";
-    font-size: 14px;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
+}
+
+a {
+	color: #686868;
+	font-family: "Heiti SC";
+}
+
+h1 {
+	font-family: "Heiti SC";
+    font-weight: bold;
+}
+
+h2 {
+	font-family: "Heiti SC";
+        font-weight: bold;
+}
+
+h3 {
+	font-family: "Heiti SC";
+    font-weight: bold;
+    }
+
+h4 {
+	font-family: "Heiti SC";
+}
+
+h5 {
+	font-family: "Heiti TC";
+}
+
+p {
+	font-family: "Heiti SC";
+}
+
+h6 {
+	font-family: "Heiti SC";
+}
+
+tr {
+	font-family: "Heiti SC";
+}
+
+td {
+	font-family: "Heiti SC";
+}
+
+li {
+	font-family: "Heiti SC";
+}
+
+blockquote {
+	font-family: "Heiti SC";
 }
