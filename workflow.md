@@ -1,12 +1,9 @@
 
 
-#  **TolaData Workflow**
+#**TolaData Workflow**
 
 
-
-
-
-
+![TolaWorkflow](workflow.png)
 
 
 ### **Site Profile**
@@ -22,22 +19,14 @@ Documents basic information about a geographic location we work in, the GPS coor
 
 Documents primary stakeholders we work with (partners, communities, businesses/entities, etc.) and information about them. This documents the WHO.
 
-### Project Initiation
+### Project Initiation and Tracking Forms
 
 
 Initiates the start of a project and describes the justification, start, and end date, estimated budget, and approvals for any project.  This documents the WHAT and links to the site and stakeholder profiles. 
 
 
-### **Project Tracking**
+Created after the initiation of a project and documents what actually happens (dates, budget, results) compared to what was estimated in the initiation form. Additionally, it also documents the impact of the project and any lessons learned or issues/challenges. 
 
-
-
-Completed after the end of a project and documents what actually happened (dates, budget, results) compared to what was estimated in the agreement form. Additionally, it also documents the impact of the project and any lessons learned or issues/challenges. 
-
-
-### **Indicators** 
-
-Linking Evidence in Tola 
 
 
 
