@@ -8,14 +8,13 @@ Approval provides teams the ability to manage the acceptance of certain data ent
 
 
 
-**Four states of Tola Activity Approvals:
-**
+#####Four states of Tola Activity Approvals
 progress
 awaiting approval
 approved 
 rejected. 
 
-**Tola Activity Forms with Approvals:**  
+#####Tola Activity Forms with Approvals:**  
 Sites, Stakeholders, Indicators, Project Agreements & Project Completions
 
 **Approvers: **
