@@ -8,7 +8,7 @@
 * [TolaTables](tolatables.md)
    * [TolaTable Overview](tola_table_overview.md)
    * [TolaTables: Importing](tolatables_importing.md)
-* Indicator Tracking
+* [Indicator Tracking](indicator_tracking.md)
 * [New Releases](new_releases.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Glossary of Terms](chapter1md.md)
