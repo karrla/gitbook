@@ -10,15 +10,18 @@ a {
 
 h1 {
 	font-family: "Heiti SC";
+    font-weight: bold;
 }
 
 h2 {
 	font-family: "Heiti SC";
+        font-weight: bold;
 }
 
 h3 {
 	font-family: "Heiti SC";
-}
+    font-weight: bold;
+    }
 
 h4 {
 	font-family: "Heiti SC";
