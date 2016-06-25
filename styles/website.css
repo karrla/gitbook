@@ -1,17 +1,53 @@
 /* CSS for website */
 body {
-	font-family: "HEITI SC";
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
 }
 
 a {
-	font-family: "HEITI SC";
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
 }
 
 h1 {
-	font-family: "HEITI SC";
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
 }
 
 h2 {
 	color: #686868;
-	font-family: "HEITI SC";
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
+}
+
+h3 {
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
+}
+
+h4 {
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
+}
+
+h5 {
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
+}
+
+p {
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
+}
+
+h6 {
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
+}
+
+tr {
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
+}
+
+td {
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
+}
+
+li {
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
+}
+
+blockquote {
+	font-family: "Heiti TC Medium", "Heiti TC Medium", "Heiti TC Medium";
 }
