@@ -1,4 +1,7 @@
 {
-    "plugins": ["addcssjs"],
+    "plugins": [
+        "addcssjs",
+        "expandable-chapters"
+    ],
     "pluginsConfig": {}
 }
