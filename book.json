@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "edit-link",
-        "language-picker"
+        "edit-link"
     ],
     "pluginsConfig": {}
 }
