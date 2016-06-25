@@ -34,5 +34,4 @@ The combination of these tools and team support provide not just a verifiable se
 We are building an open-source monitoring and evaluation platform that streamlines data, brings transparency and builds capacity for humanitarian projects.
 
 
-
-![](Screen Shot 2016-06-24 at 12.59.13 PM.png)
+![](Infographic.png)
