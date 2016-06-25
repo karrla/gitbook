@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "addcssjs",
         "expandable-chapters",
         "page-toc"
     ],
