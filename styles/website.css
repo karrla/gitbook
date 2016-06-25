@@ -1,27 +1,27 @@
 /* CSS for website */
 body {
-	font-family: "Heiti TC";
+	color: #686868;
+	font-family: "Heiti SC";
 }
 
 a {
-	font-family: "Heiti TC";
+	font-family: "Heiti SC";
 }
 
 h1 {
-	font-family: "Heiti TC";
+	font-family: "Heiti SC";
 }
 
 h2 {
-	color: #686868;
-	font-family: "Heiti TC";
+	font-family: "Heiti SC";
 }
 
 h3 {
-	font-family: "Heiti TC";
+	font-family: "Heiti SC";
 }
 
 h4 {
-	font-family: "Heiti TC";
+	font-family: "Heiti SC";
 }
 
 h5 {
@@ -29,7 +29,7 @@ h5 {
 }
 
 p {
-	font-family: "Heiti TC";
+	font-family: "Heiti SC";
 }
 
 h6 {
