@@ -1,5 +1,17 @@
 /* CSS for website */
-
 body {
 	font-family: Verdana;
+}
+
+a {
+	font-family: Verdana;
+}
+
+h1 {
+	font-family: "Verdana Bold";
+}
+
+h2 {
+	color: #686868;
+	font-family: "Verdana Bold";
 }
