@@ -7,7 +7,7 @@ Each time you enter newly collected data for your Program Indicators in Tola Act
 
 ---
 
-![](images/sm_tola-tables-icon-blue.png) 
+![](sm_tola-activity-icon-orange.png)        ![](images/sm_tola-tables-icon-blue.png) 
 ##Four Types of Evidence
 
 ###Type 1: Mobile Data + Table Evidence (tabular)
