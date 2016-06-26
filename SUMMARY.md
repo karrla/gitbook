@@ -4,8 +4,8 @@
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
        * [Workflow](workflow.md)
+       * [Projects](project_workflow.md)
        * delete
-   * [Projects](project_workflow.md)
    * [Sites](sites.md)
    * [Stakeholders](stakeholders.md)
    * [Documents](documents.md)
