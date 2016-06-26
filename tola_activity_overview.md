@@ -1,5 +1,5 @@
 #Tola Activity
-<br>
+
 A collection of standardized data forms, reports and visualizations designed to track and the impact of an organizations' programs and projects
 
 
