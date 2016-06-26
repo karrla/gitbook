@@ -7,8 +7,8 @@
        * [Projects](project_workflow.md)
        * [Sites](sites.md)
        * [Stakeholders](stakeholders.md)
+       * [Documents](documents.md)
        * delete
-   * [Documents](documents.md)
    * [Indicator Tracking](indicator_tracking.md)
 * [Evidence](evidence.md)
 * [TolaTables](tolatables.md)
