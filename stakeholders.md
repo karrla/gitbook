@@ -2,9 +2,16 @@
 
 A stakeholder defines who the program is working with.
 
-Stakeholders are persons or organizations whether in the public, private or civil sector, whose interests may be positively or negatively affected by Mercy Corps’ decisions, actions and ensuing results.
+Stakeholders are persons or organizations whether in the public, private or civil sector, whose interests may be positively or negatively affected by Project Team decisions, actions and ensuing results.
 
 
+
+---
+
+
+###Stakeholder Form
+The Stakeholder form includes:
+ 
 * 
 Stakeholder type Contact details 
 * 
@@ -14,10 +21,17 @@ Understanding (MOU), due diligence, etc
 * 
 Approvals
 
+
+
+###Adding Stakeholders
 Stakeholders can be added to through the TolaActiviy Stakeholder form
 
 ![](EnteringStakeholders.gif)
 
 
+<br>
+
+###Contact List
 There is also a Contact List in TolaActivity which you can use to your contacts to your Stakeholders.
 
+![](EnteringAContact.gif)
