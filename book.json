@@ -2,7 +2,6 @@
     "plugins": [
         "expandable-chapters",
         "page-toc",
-        "layout",
         "page-footer"
     ],
     "pluginsConfig": {
@@ -21,7 +20,7 @@
             "baseUri": "https://toladata.com/",
             "isShowIssues": true,
             "repo": "toladata",
-            "token": "",
+            "token": "18f3735efc03c5d822b52962b9dfb8a3097e6728",
             "style": "normal"
         }  
     }
