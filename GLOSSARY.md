@@ -3,13 +3,13 @@
 ##Project
 A project is a unique product, service, or result. Managing a Project is the discipline of planning, organizing, and managing resources to bring about the successful delivery of specific **project objectives** while balancing the competing demands of time, scope, cost. 
 
-##Site Profile
+##Site
 
-Documents basic information about a geographic location we work in, the GPS coordinates of that location, and basic demographic information if relevant. This documents the WHERE.
+The location and GPS coordinates of that location, and basic demographic information if relevant. This documents the WHERE.
 
 ##Stakeholder 
 
-Documents primary stakeholders we work with (partners, communities, businesses/entities, etc.) and information about them. This documents the WHO.
+Documents primary stakeholders who is part of one or more projects (partners, communities, businesses/entities, etc.) and information about them. This documents the WHO.
 
 ##Screencasts 
 A screencast is a digital recording of computer screen output, also known as a video screen capture, often containing audio narration.
