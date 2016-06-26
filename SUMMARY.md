@@ -1,7 +1,6 @@
 # Summary
 
 * [TolaData](README.md)
-* [Workflow](workflow.md)
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
    * [Project Workflow](project_workflow.md)
@@ -9,6 +8,7 @@
    * [Stakeholders](stakeholders.md)
    * [Documents](documents.md)
    * [Indicator Tracking](indicator_tracking.md)
+* [Workflow](workflow.md)
 * [Evidence](evidence.md)
 * [TolaTables](tolatables.md)
    * [TolaTable Overview](tola_table_overview.md)
