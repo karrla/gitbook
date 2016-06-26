@@ -1,4 +1,4 @@
-# Other TolaData Resources
+# Trainer Resources
 
 
 ---
