@@ -1,4 +1,4 @@
-# Feedback
+# Feedback and Support
 We <b>welcome and encourage</b> your feedback and requests! <br>
 We have a few tools to help us support you!
 <br>
@@ -59,12 +59,11 @@ I have pasted in the following error and the page URL where I found the error."
 
 We have three types of tickets to help us prioritze the Tola.Work queue
 
-**Problems:** 
-Choose problem when you are requesting help with something you are having an issue with it, but you can still get your task done.
+<b>Problems:</b> Choose problem when you are requesting help with something you are having an issue with it, but you can still get your task done.
 
-**Errors/Bugs:** If you receive and error or there is unexpected behavior, especially when you cannot finish your task!
+<b>Errors/Bugs:</b> If you receive and error or there is unexpected behavior, especially when you cannot finish your task!
 
-**Enhancements**: 
+<b>Enhancements:</b> 
 Anything you or your colleague would like to see added or changed, but is not broken!  Remember the diagram? Enhancements requests **need votes** to get pushed up to the Tola.Work queue! So get your colleagues to vote too!
 
 ##**TolaData Form Guides**
@@ -72,9 +71,9 @@ We've create Form Guidance to all Tola Activity Forms. You can reference them on
 
 
            
-Form Guides are also accessible from the Tola Data Public Google Drive folder.
+Form Guides are also accessible from the TolaData Public Google Drive folder.
 
-All Form and Form Guides are managed by the Tola project team and need to go through Tola.Work change requests. 
+All Form and Form Guides are managed by the TolaData project team and need to go through Tola.Work change requests. 
 See Form and Form Guide Change Requests
 
 ##TolaData YouTube
