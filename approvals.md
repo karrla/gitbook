@@ -1,7 +1,9 @@
 # Tola Activity Approvals
-<br>
-<br>
-<br>
+Approval provides teams<br>
+the ability to manage <br>
+the acceptance of certain <br>
+data entered into TolaActivity
+
 <br>
 <br>
 <br>
