@@ -5,8 +5,8 @@
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
    * [Approvals](approvals.md)
-   * [Indicator Tracking](indicator_tracking.md)
    * Project Workflow
+   * [Indicator Tracking](indicator_tracking.md)
 * [Evidence](evidence.md)
    * Merge Data
 * [TolaTables](tolatables.md)
