@@ -4,17 +4,28 @@
 ---
 We **welcome and encourage** your feedback and requests! And we have a few tools to help us support you!
 
-First we are on [Slack](https://tola-users.slack.com/messages/general/)! Join the discussions! Ask questions, get feedback, find answers...
+####First we are on **[Slack](https://tola-users.slack.com/messages/general/)!** <br>
+Join the discussions! <br>
+Ask questions, get feedback, find answers...
 
-And we have a work queue [TOLA.WORK](http://tola.work)! Where we would love you to provide feedback on issues and input on new ideas. You can even vote on your favorite new enhancements! We encourage it. It helps us prioritize the features our users what you want!
+And 
+####We have a shared work queue:[TOLA.WORK](http://tola.work)!
 
+We love feedback on trouble issues and input on new ideas. 
+<br>You can even vote on your favorite new enhancements! We **encourage** it. 
+
+#####<u>Help us prioritize the features users what you want!
+
+Let's face it we all have great ideas, but sometimes there are so many great ideas, we need more than one person to input on it.
+
+That's why we ask you discuss and vote! 
+
+Our friendly diagram to help all of us decide when an idea should become reality:
 ![](images/TolaWorkRequest.png)
-
-[Search](http://tola.work/helpdesk/tickets/)
+fig.1 [Search](http://tola.work/helpdesk/tickets/)
  and [Vote!](http://tola.work/helpdesk/tickets/)
- 
-Each ticket has a vote/thumbs up or down button. Please vote for enhancements you think are important. Each vote for a ticket will bring the issue higher in the Tola work queue.
-Best practices entering a ticket: When entering a problem or bug ticket, please add the following:  
+
+New to the idea of entering tickets? Here are some good questions to answer when entering a new [Tola.Work](http://tola.work) ticket 
 
 <i>What browser are you using?
 
@@ -24,17 +35,14 @@ Best practices entering a ticket: When entering a problem or bug ticket, please 
 
 <i>What did happened? 
 
-###Entering a [Tola.Work](http://tola.work) quality ticket
-
-**Lack of Information in a Request: **
-
+#####Here is an example of a ticket lacking the details we need:
 " I found an error when I was working in Tola Activity."
 
-<i>We want to get to fixing the issue, but it's hard to know where to start troubleshooting without more information
+<i>We truly want to get to fixing the issue for you, but it's hard to know where to start troubleshooting without more information...
 
-**Quality Detailed Request: **
+**Here a is a nice ticket: **
 
-"When clicking the submit button under Project (ID Number) > Program Initiation (Name)  > Executive Summary, I get an error. 
+"When clicking the submit button under Project (ID Number) then Program Initiation (Name of the Initiation)  and then Executive Summary, I get an error. 
 <br><br>
 I have pasted in the following error and the page URL where I found the error."
 
@@ -42,28 +50,31 @@ I have pasted in the following error and the page URL where I found the error."
 
 ## ****Type of Tickets****
 
+There are three types of ticket
 
+**Problems:** 
+Choose problem when you are requesting help with something you are having an issue with it, but you can still get your task done.
 
-**Problem:** Requesting help with something you are having an issue with.
+**Errors/Bugs:** If you receive and error or there is unexpected behavior, especially when you cannot finish your task!
 
-**Error/Bug:** If you receive and error or there is unexpected behavior
-
-**Enhancement**: Anything you'd like to see added or changed, but is not broken. Enhancements requests need votes to get pushed up to the Tola.Work queue
+**Enhancements**: 
+Anything you or your colleague would like to see added or changed, but is not broken!  Remember the diagram? Enhancements requests **need votes** to get pushed up to the Tola.Work queue! So get your colleagues to vote too!
 
 ##**TolaData Form Guides**
-Guidance to all Tola Activity Forms can be found on each form page by clicking the blue Form Help/Guidance button on the page.
+We've create Form Guidance to all Tola Activity Forms. You can reference them on each form pages by clicking the blue Form Help/Guidance button on the page.
 
 
            
 Form Guides are also accessible from the Tola Data Public Google Drive folder.
 
-All Form and Form Guides are managed by the Tola project team and need to go through Tola.Work change requests. See Form and Form Guide Change Requests
+All Form and Form Guides are managed by the Tola project team and need to go through Tola.Work change requests. 
+See Form and Form Guide Change Requests
 
-##TolaData How-To Screencasts 
+##TolaData YouTube:
 
-If you would like to add to the screencast, please help us out and create your own to add to the channel, we welcome the help.
-
-** [See our YouTube Channel!](https://www.youtube.com/channel/UCBVZf-TVxQ3aNhJUOXB71nQ)
+We have a [YouTube channel](https://www.youtube.com/channel/UCBVZf-TVxQ3aNhJUOXB71nQ)!
+Find helpful Screencasts and Monthly upates
+If you would like to add to the screencast, please help us out and create your own to add to the channel, we welcome the help
 
 
 The channel includes how to steps on: linking evidence, filling in the project initiation and tracking forms, creating custom and standard indicators, a full demo of TolaActivity and TolaTables and many more. 
