@@ -3,6 +3,7 @@
 
 
 These release notes start in May 2016 - Present
+
 More details or to view other release history please see: https://github.com/toladata
 
 
