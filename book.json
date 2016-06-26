@@ -11,7 +11,7 @@
             "position": "before-first"
         }
         "page-footer": {
-            "description": "modified at",
+       
             "signature": "TolaData",
             "wisdom": "Data-driven learning",
             "format": "yyyy-MM-dd hh:mm:ss",
@@ -19,7 +19,7 @@
             "timeColor": "#666",
             "copyrightColor": "#666",
             "utcOffset": "8",
-            "isShowQRCode": true,
+
             "baseUri": "https://toladata.com/",
             "isShowIssues": true,
             "repo": "toladata",
