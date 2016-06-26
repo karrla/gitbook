@@ -3,7 +3,7 @@
 
 ---
 
-
+![](images/tt_header.png)
 
 A data collection, aggregation and management tool for all types of data collection methods designed to track the impact of NGO programs and projects in the field.  Designed initially to solve the problem of duplicate, disaggregated or broken data from mobile data collection platforms suchs as FormHub and iFormbuilder, it is now integrated with multiple data collection platforms and provides merge, auto download, cleaning, editing, sharing and analysis tools for all types of data.  It also provides the data service back end for other Tola tools such as Tola Workflow.
 
