@@ -34,5 +34,5 @@ As of June 2016 when you choose Import Data you have four options to import your
 
 * Last Name your new Table and Submit 
 
-
+![](importSteps.gif)
 
