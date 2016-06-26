@@ -18,7 +18,9 @@ We welcome and encourage your feedback and requests. Please provide requests and
 ###**TolaData-Users Slack channel** 
 Join the discussions about TolaData with other TolaData users
 
-[Tola.Work](http://tola.work) is our work queue for the whole TolaData system. Please report your requests by filling out a ticket. Please first search existing tickets to see if someone has already reported the issue or the requested enhancement. 
+<p style="font-size:20px"> <b> [Tola.Work](http://tola.work)  
+
+Our work queue for the whole TolaData system is [Tola.Work](tola.work). Please report your requests by filling out a ticket. Please first search existing tickets to see if someone has already reported the issue or the requested enhancement. 
 
 [Search](http://tola.work/helpdesk/tickets/)
  and [Vote!](http://tola.work/helpdesk/tickets/)
