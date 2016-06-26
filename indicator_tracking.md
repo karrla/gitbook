@@ -18,6 +18,6 @@ Report against standard agency indicators
 ###Standard Indicators
 Within TolaActivity we can provide a dropdown list of standard agency and governmental indicators, allowing users to select from those lists. 
 
-###Entering Indicators 
+###Adding Indicators 
 
 
