@@ -15,7 +15,6 @@
    * [Evidence](evidence.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Releases Notes for Users](new_releases.md)
-* [Glossary of Terms](glossary.md)
 * [Support Documentation](support_documentation.md)
    * [Using TolaTables](using_tolatables.md)
        * [Merge Data](merge_data.md)
@@ -27,5 +26,6 @@
    * [TolaActivity API](tolaactivity_api.md)
    * [Creating Projects](creating_projects.md)
 * [Trainer Resources](other_resources.md)
+* [Glossary of Terms](glossary.md)
 * [Feedback and Support](support_and_feedback.md)
 
