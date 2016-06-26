@@ -23,7 +23,6 @@
 * [Glossary of Terms](glossary.md)
 * [Support Documentation](support_documentation.md)
    * [Trainer Resources](other_resources.md)
-   * delete
    * Using TolaTables
    * Using TolaActivity
 * [Feedback and Support](support_and_feedback.md)
