@@ -8,7 +8,6 @@
        * [Sites](sites.md)
        * [Stakeholders](stakeholders.md)
        * [Documents](documents.md)
-       * delete
    * [Indicator Tracking](indicator_tracking.md)
 * [Evidence](evidence.md)
 * [TolaTables](tolatables.md)
