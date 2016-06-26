@@ -17,7 +17,7 @@ May 31st 2016
 
 
 
-### Workflow Form Name Changes: 
+<p style="font-size:20px"> <b> Workflow Form Name Changes: 
 
 <b> Project Initiations and Project Tracking Forms
 
@@ -46,7 +46,7 @@ Tracks and documents what actually happened (dates, budget, results) in a projec
 
 
 
-####Indicator Visual Report Filters
+<p style="font-size:20px"> <b>Indicator Visual Report Filters
 
 <b>  [Tola.Work: 513](http://tola.work/helpdesk/tickets/513/)
 Indicator Visual Report Filters fixed 
@@ -64,7 +64,7 @@ Indicator Visual Report Filters fixed
 
 
 May 27th, 2106
-####Updates and Fixes to "Send to TolaActivity" from TolaTables
+<p style="font-size:20px"> <b>Updates and Fixes to "Send to TolaActivity" from TolaTables
 
 
 
@@ -74,7 +74,7 @@ May 27th, 2106
 
 
 May 22, 2016 
-####Footer Update 
+<p style="font-size:20px"> <b>Footer Update 
 TolaData: Built by MercyCorps
 
 
@@ -82,10 +82,10 @@ TolaData: Built by MercyCorps
 
 
 
-####API Updates
+<p style="font-size:20px"> <b>API Updates
 Further restriction based on user's access to API
 
-####Form Guidances Administration Moved to Admin
+<p style="font-size:20px"> <b>Form Guidances Administration Moved to Admin
 Form Guidance URLs are now managed in Admin. 
 Form Guidance Admins no longer need to overwrite the current document to retain the same URL. 
 
@@ -96,7 +96,7 @@ Form Guidance Admins no longer need to overwrite the current document to retain 
 
 May 21st, 2016
 
-####New Program ID - GAIT Links Removed
+<p style="font-size:20px"> <b> New Program ID - GAIT Links Removed
 All links to GAIT were removed from the Program Names and replaced with Program IDs
 
 
@@ -106,7 +106,7 @@ All links to GAIT were removed from the Program Names and replaced with Program 
 
  May 20th, 2016
 
-##### Indicator Report "Export All" Fixed
+<p style="font-size:20px"> <b> Indicator Report "Export All" Fixed
 
 
 <b>[Tola.Work:194](http://tola.work/helpdesk/tickets/194/) 
@@ -136,7 +136,7 @@ All links to GAIT were removed from the Program Names and replaced with Program 
 May 11, 2016
 
 
-#### More work on Custom Dashboards. Coming soon!
+<p style="font-size:20px"> <b> More work on Custom Dashboards. Coming soon!
 
 
 
@@ -148,10 +148,10 @@ May 11, 2016
 
 <b> [Tola.Work:477](http://tola.work/helpdesk/tickets/477/)
 
-#### Admin Updates and New Document link fixed
+<p style="font-size:20px"> <b> Admin Updates and New Document link fixed
 
 
-#### Country Search in Admin for Strategic Objectives fixed
+<p style="font-size:20px"> <b> Country Search in Admin for Strategic Objectives fixed
 
 
 #### New "Unique Column" Alert 
@@ -160,7 +160,7 @@ May 11, 2016
 Users will now see a message in TolaTables, when turning on Auto-Pull or Auto-Push, if they have not set up a unique column.
 
 
-#### Concatenate/Join Merge Fixed in TolaTables
+<p style="font-size:20px"> <b> Concatenate/Join Merge Fixed in TolaTables
 
 
 ---
@@ -169,7 +169,7 @@ May 5th, 2016
 
 
 
-#### New Scripts to Import Admin Levels
+<p style="font-size:20px"> <b> New Scripts to Import Admin Levels
 
 
 
@@ -190,7 +190,7 @@ There are now links back to Table View from Table edit page and back from Table 
 
 
 
-#### New "View Only" User Group
+<p style="font-size:20px"> <b> New "View Only" User Group
 
 
 Admins can now assign users View Only access. All new users will have "View Only" access until an Admin adds removes them from View Only and adds them to one of the other User Groups. If a user is assigned View Only group, they will not be able to edit any of the forms and will receive “Access Denied” pages for sections they cannot edit. 
@@ -200,7 +200,7 @@ Admins can now assign users View Only access. All new users will have "View Only
 
 
 
-#### Data Collected Form Update Achieved Count from TolaTable
+<p style="font-size:20px"> <b> Data Collected Form Update Achieved Count from TolaTable
 
 
 The achieved count in your Data Collected Form for your indicators can now be updated automatically with the unique count total of a linked TolaTable
