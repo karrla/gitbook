@@ -5,7 +5,7 @@
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
    * [Project Workflow](project_workflow.md)
-   * Documents
+   * [Documents](documents.md)
    * [Indicator Tracking](indicator_tracking.md)
    * [Sites](sites.md)
    * [Stakeholders](stakeholders.md)
