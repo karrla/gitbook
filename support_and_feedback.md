@@ -20,10 +20,11 @@ Join the discussions about TolaData with other TolaData users
 
 <p style="font-size:20px"> <b> [Tola.Work](http://tola.work)  
 
-Our work queue for the whole TolaData system is [Tola.Work](tola.work). Please report your requests by filling out a ticket. Please first search existing tickets to see if someone has already reported the issue or the requested enhancement. 
+Our work queue for the whole TolaData system is [Tola.Work](http://tola.work). Please report your requests by filling out a ticket. Please first search existing tickets to see if someone has already reported the issue or the requested enhancement. 
 
 [Search](http://tola.work/helpdesk/tickets/)
  and [Vote!](http://tola.work/helpdesk/tickets/)
+ 
 Each ticket has a vote/thumbs up or down button. Please vote for enhancements you think are important. Each vote for a ticket will bring the issue higher in the Tola work queue.
 Best practices entering a ticket: When entering a problem or bug ticket, please add the following:  
 
@@ -35,18 +36,21 @@ Best practices entering a ticket: When entering a problem or bug ticket, please 
 
 <i>What did happened? 
 
-###Examples of [Tola.Work](http://tola.work) tickets
+###Entering a [Tola.Work](http://tola.work) quality ticket
 
-**Unhelpful request: **
+**Lack of Information in a Request: **
 
 " I found an error when I was working in Tola Activity."
 
-**Helpful Request: **
+<i>We want to get to fixing the issue, but it's hard to know where to start troubleshooting without more information
 
-When clicking the submit button under Project (ID Number) > Program Agreement (Name)  > Executive Summary, I received the following error.  
+**Quality Detailed Request: **
 
-  Paste in your Error message and the Page URL
+"When clicking the submit button under Project (ID Number) > Program Initiation (Name)  > Executive Summary, I get an error. 
+<br><br>
+I have pasted in the following error and the page URL where I found the error."
 
+<i> Now that is more like it! We can immediately start looking into the issue! Thanks!
 
 ## ****Type of Tickets****
 
