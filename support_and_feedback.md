@@ -1,14 +1,14 @@
 # Feedback
 We **welcome and encourage** your feedback and requests! And we have a few tools to help us support you!
-
+<br>
 
 ---
-####First we are on **[Slack](https://tola-users.slack.com/messages/general/)!** <br>
+###First we are on **[Slack](https://tola-users.slack.com/messages/general/)!** <br>
 Join the discussions! <br>
 Ask questions, get feedback, find answers...
 
 And 
-####We have a shared work queue:[TOLA.WORK](http://tola.work)!
+###We have a shared work queue:[TOLA.WORK](http://tola.work)!
 
 We love feedback on trouble issues and input on new ideas. 
 <br>You can even vote on your favorite new enhancements! We **encourage** it. 
@@ -23,7 +23,7 @@ Our friendly diagram to help all of us decide when an idea should become reality
 ![](images/TolaWorkRequest.png)
 fig.1 [Search](http://tola.work/helpdesk/tickets/)
  and [Vote!](http://tola.work/helpdesk/tickets/)
-
+###Tickets
 New to the idea of entering tickets? Here are some good questions to answer when entering a new [Tola.Work](http://tola.work) ticket 
 
 <i>What browser are you using?
