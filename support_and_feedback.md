@@ -35,12 +35,12 @@ New to the idea of entering tickets? <br> Here are some good questions to answer
 
 <i>What did happened? 
 
-#####Here is an example of a ticket lacking the details we need:
+#####Example of a ticket lacking the details we need:
 " I found an error when I was working in Tola Activity."
 
 <i>We truly want to get to fixing the issue for you, but it's hard to know where to start troubleshooting without more information...
 
-**Here a is a nice ticket: **
+**....And good ticket: **
 
 "When clicking the submit button under Project (ID Number) then Program Initiation (Name of the Initiation)  and then Executive Summary, I get an error. 
 <br><br>
@@ -48,9 +48,7 @@ I have pasted in the following error and the page URL where I found the error."
 
 <i> Now that is more like it! We can immediately start looking into the issue! Thanks!
 
-#####Type of Tickets
-
-There are three types of ticket
+####There are three types of ticket
 
 **Problems:** 
 Choose problem when you are requesting help with something you are having an issue with it, but you can still get your task done.
