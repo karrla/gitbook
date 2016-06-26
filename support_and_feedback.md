@@ -1,9 +1,8 @@
 # Feedback
+We **welcome and encourage** your feedback and requests! And we have a few tools to help us support you!
 
 
 ---
-We **welcome and encourage** your feedback and requests! And we have a few tools to help us support you!
-
 ####First we are on **[Slack](https://tola-users.slack.com/messages/general/)!** <br>
 Join the discussions! <br>
 Ask questions, get feedback, find answers...
@@ -70,10 +69,11 @@ Form Guides are also accessible from the Tola Data Public Google Drive folder.
 All Form and Form Guides are managed by the Tola project team and need to go through Tola.Work change requests. 
 See Form and Form Guide Change Requests
 
-##TolaData YouTube:
+##TolaData YouTube
 
 We have a [YouTube channel](https://www.youtube.com/channel/UCBVZf-TVxQ3aNhJUOXB71nQ)!
-Find helpful Screencasts and Monthly upates
+Find helpful how-to screencasts and monthly recorded updates from the project team. 
+
 If you would like to add to the screencast, please help us out and create your own to add to the channel, we welcome the help
 
 
