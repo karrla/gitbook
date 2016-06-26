@@ -24,4 +24,5 @@
 * [Glossary of Terms](glossary.md)
 * [Trainer Resources](other_resources.md)
 * [Support Documentation](support_documentation.md)
+   * delete
 
