@@ -1,6 +1,6 @@
 # Summary
 
-* [TolaData](README.md)
+* [Abotu TolaData](README.md)
    * [TolaActivity](tolaactivity.md)
        * [TolaActivity Overview](tola_activity_overview.md)
            * [Workflow](workflow.md)
