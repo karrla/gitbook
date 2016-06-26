@@ -7,6 +7,7 @@
    * [Project Workflow](project_workflow.md)
    * [Indicator Tracking](indicator_tracking.md)
    * [Approvals](approvals.md)
+   * Sites
 * [Evidence](evidence.md)
    * Merge Data
 * [TolaTables](tolatables.md)
