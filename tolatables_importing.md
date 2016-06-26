@@ -1,4 +1,9 @@
 #Importing Data
+Import data
+from multiple
+sources
+<br>
+<br>
 
 ---
 
@@ -12,10 +17,10 @@ Each data set is then managed on its own and can then later be mapped, merged an
 
 TolaTables is continuously updating as resources permits; please see known issues that we are working on at the bottom.  
 
-##Import, Push, Pull and Merge Options (as of June 2016)**
+####Import, Push, Pull and Merge Options
 
 
-AS of June 2016 when you choose Import Data you have four options to import your data. Either the universal format of CSV, Google Sheet a JSON feed or directly from Ona. If you have your data in Excel, simply save it as a CSV file format before importing it to TolaTables.  
+As of June 2016 when you choose Import Data you have four options to import your data. Either the universal format of CSV, Google Sheet a JSON feed or directly from Ona. If you have your data in Excel, simply save it as a CSV file format before importing it to TolaTables.  
 
 ![](images/import_matrix.png)
 
@@ -28,7 +33,6 @@ AS of June 2016 when you choose Import Data you have four options to import your
 * Choose your File and Save!
 
 * Last Name your new Table and Submit 
-
 
 
 
