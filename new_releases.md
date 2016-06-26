@@ -2,8 +2,6 @@
 <p style="font-size:35px"> <b> TolaData Release Notes for Users
 
 
-Return to Main Page
-
 These release notes start in May 2016 - Present
 More details or to view other release history please see: https://github.com/toladata
 
