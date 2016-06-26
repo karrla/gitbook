@@ -1,4 +1,4 @@
-# Sites
+# Site Profiles
 A site defines the geographical location(s) of a program. 
 
 
