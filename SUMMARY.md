@@ -21,7 +21,7 @@
    * [Trainer Resources](other_resources.md)
 * [Feedback and Support](support_and_feedback.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
-* [New Releases Notes](new_releases.md)
+* [Releases Notes for Users](new_releases.md)
 * [Glossary of Terms](glossary.md)
 * [Support Documentation](support_documentation.md)
 
