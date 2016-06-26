@@ -25,7 +25,7 @@
        * [Importing Data](tolatables_importing.md)
 * TolaActivity API
 * [Using TolaActivity](using_tolaactivity.md)
-   * Creating Projects
+   * [Creating Projects](creating_projects.md)
 * [Trainer Resources](other_resources.md)
 * [Feedback and Support](support_and_feedback.md)
 
