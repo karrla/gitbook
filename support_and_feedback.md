@@ -2,25 +2,13 @@
 
 
 ---
+We **welcome and encourage** your feedback and requests! And we have a few tools to help us support you!
 
+First we are on [Slack](https://tola-users.slack.com/messages/general/)! Join the discussions! Ask questions, get feedback, find answers...
 
+And we have a work queue [TOLA.WORK](http://tola.work)! Where we would love you to provide feedback on issues and input on new ideas. You can even vote on your favorite new enhancements! We encourage it. It helps us prioritize the features our users what you want!
 
-
-
-
-
-## **Reporting Errors, Requesting Features, and Providing Feedback. **
-
-
-
-We welcome and encourage your feedback and requests. Please provide requests and feedback through the following tools/channels. For the best response, please follow the "how to
-
-###**TolaData-Users Slack channel** 
-Join the discussions about TolaData with other TolaData users
-
-<p style="font-size:20px"> <b> [Tola.Work](http://tola.work)  
-
-Our work queue for the whole TolaData system is [Tola.Work](http://tola.work). Please report your requests by filling out a ticket. Please first search existing tickets to see if someone has already reported the issue or the requested enhancement. 
+![](images/TolaWorkRequest.png)
 
 [Search](http://tola.work/helpdesk/tickets/)
  and [Vote!](http://tola.work/helpdesk/tickets/)
