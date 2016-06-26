@@ -7,6 +7,7 @@
    * [Approvals](approvals.md)
    * [Indicator Tracking](indicator_tracking.md)
 * [Evidence](evidence.md)
+   * Merge Data
 * [TolaTables](tolatables.md)
    * [TolaTable Overview](tola_table_overview.md)
    * [Importing Data](tolatables_importing.md)
