@@ -24,4 +24,5 @@
    * [What's New in TolaData?](whats_new_in_toladata.md)
    * [Glossary of Terms](glossary.md)
    * delete
+   * deke
 
