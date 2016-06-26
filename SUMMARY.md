@@ -23,6 +23,7 @@
 * [Support Documentation](support_documentation.md)
    * [Importing Data](tolatables_importing.md)
    * [Using TolaTables](using_tolatables.md)
+       * delete
    * Using TolaActivity
 * [Trainer Resources](other_resources.md)
 * [Feedback and Support](support_and_feedback.md)
