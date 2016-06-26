@@ -8,35 +8,43 @@ Approval provides teams the ability to manage the acceptance of certain data ent
 
 
 
-###TolaActivity Approvals
+###Approvals
 
 #####<u>States of Approvals
+* 
 progress
+* 
 awaiting approval
+* 
 approved 
+* 
 rejected. 
 
-#####<u>Tola Activity Forms with Approvals: 
-Sites, Stakeholders, Indicators, Project Initiations & Project Tracking Forms
+#####<u>Tola Activity Forms with Approvals 
+* 
+Sites
+* Stakeholders
+* Indicators
+* Project Initiations & Project Tracking Forms
 
-####Approvers:
+####Approvers
 Anyone can approve Sites, Stakeholders, and Indicators. (Sites are usually reviewed and managed by field managers or community mobilizers, Stakeholders by program officers, and Indicators by M&E managers ). 
 
 Project Initiations & Project Tracking Forms can only be approved by users in the Approvers group. 
 
-#####<u>Approvers Group:
+#####<u>Approvers Group
 To assign someone as an Approver in Tola Activity, they need to be added to the Approvers group in the Admin Console. 
 
-#####<u>Approval Notifications:
+#####<u>Approval Notifications
 When a Initiations & Project Tracking Forms is set to “Awaiting Approval” the email notification goes out to all Approvers in the country letting them know the Project Initiations & Project Tracking Forms is ready to be approved. Approval email notifications are not (currently) limited by fund codes or Programs.
 
-####Limiting TolaActivity Approvals:
+####Limiting TolaActivity Approvals
 Teams can limit approvals in Tola Activity on Initiations & Project Tracking Forms by turning on “Tola Approval Authority budget limits” for certain programs and assigning specific budget limits to specific Approvers in the Admin Console. See screencast
 
-#####<u>Tola Approval Authority:
+#####<u>Tola Approval Authority
 The budget limit set for each approver is decided separately by each country team depending on the complexity of their programs. 
 
-#####<u>Project Initiation Approvals:
+#####<u>Project Initiation Approvals
 Once a Project Initiation is approved a Project Tracking form will be created, and the Project Agreement will be set to read-only once that Project Completion is saved. 
 
 
