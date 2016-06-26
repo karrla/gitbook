@@ -1,2 +1,0 @@
-# Defining a Program & Project
-
