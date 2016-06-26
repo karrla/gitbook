@@ -1,5 +1,6 @@
 # Feedback
-We **welcome and encourage** your feedback and requests! And we have a few tools to help us support you!
+We <b>welcome and encourage</b> your feedback and requests! <br>
+We have a few tools to help us support you!
 <br>
 
 ---
@@ -8,7 +9,7 @@ Join the discussions! <br>
 Ask questions, get feedback, find answers...
 
 And 
-###We have a shared work queue:[TOLA.WORK](http://tola.work)!
+###We have a shared work queue: [TOLA.WORK](http://tola.work)!
 
 We love feedback on trouble issues and input on new ideas. 
 <br>You can even vote on your favorite new enhancements! We **encourage** it. 
