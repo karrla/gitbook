@@ -13,6 +13,7 @@
    * [Importing Data](tolatables_importing.md)
    * Clean Data
    * Auto-Pulling Data
+   * Auto-Pushing Data
 * [New Releases](new_releases.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Feedback and TolaData-User Commnity](support_and_feedback.md)
