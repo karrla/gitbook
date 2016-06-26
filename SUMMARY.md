@@ -16,6 +16,7 @@
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Releases Notes for Users](new_releases.md)
 * [Support Documentation](support_documentation.md)
+   * [Feedback and Support](support_and_feedback.md)
    * [Using TolaActivity](using_tolaactivity.md)
        * [TolaActivity API](tolaactivity_api.md)
        * [Creating Projects](creating_projects.md)
@@ -28,5 +29,4 @@
    * Browser Support
 * [Trainer Resources](other_resources.md)
 * [Glossary of Terms](glossary.md)
-* [Feedback and Support](support_and_feedback.md)
 
