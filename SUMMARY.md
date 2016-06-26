@@ -6,7 +6,6 @@
    * [TolaActivity Overview](tola_activity_overview.md)
    * [Project Workflow](project_workflow.md)
    * [Indicator Tracking](indicator_tracking.md)
-   * [Approvals](approvals.md)
    * Stakeholders
    * Sites
 * [Evidence](evidence.md)
