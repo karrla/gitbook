@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * Other Resources
 * [TolaData Workflow](workflow.md)
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
@@ -19,5 +18,6 @@
 * [New Releases](new_releases.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Feedback and TolaData-User Commnity](support_and_feedback.md)
+* Other Resources
 * [Glossary of Terms](chapter1md.md)
 
