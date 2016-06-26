@@ -5,9 +5,6 @@ the acceptance of certain <br>
 data entered into TolaActivity
 
 <br>
-<br>
-<br>
-
 
 
 
