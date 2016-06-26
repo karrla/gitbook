@@ -1,14 +1,18 @@
 # Sites
+A site defines the geographical location(s) of a program. 
 
 
 ---
 
-A site defines the geographical location(s) of a program. 
+##Site Form includes:
 
-
+* 
 Profile: description and contact info 
+* 
 Location: lat/long
+* 
 Demographic Information: household (SADD), land, literacy, source documentation
+1. 
 Approvals
 
 
