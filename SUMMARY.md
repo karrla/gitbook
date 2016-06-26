@@ -16,8 +16,8 @@
    * [Auto-Pulling Data](auto-pulling_data.md)
    * [Auto-Pushing Data](auto-pushing_data.md)
 * [New Releases](new_releases.md)
-* [What's New in TolaData?](whats_new_in_toladata.md)
 * [Feedback and Support](support_and_feedback.md)
 * [Training Resources](other_resources.md)
+* [What's New in TolaData?](whats_new_in_toladata.md)
 * [Glossary of Terms](chapter1md.md)
 
