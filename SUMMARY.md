@@ -17,8 +17,8 @@
        * [Merge Data](merge_data.md)
        * [Auto-Pulling Data](auto-pulling_data.md)
        * [Auto-Pushing Data](auto-pushing_data.md)
+   * [Evidence](evidence.md)
    * delete
-* [Evidence](evidence.md)
 * [New Releases](new_releases.md)
 * [Feedback and Support](support_and_feedback.md)
 * [Trainer Resources](other_resources.md)
