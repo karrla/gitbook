@@ -48,7 +48,7 @@ I have pasted in the following error and the page URL where I found the error."
 
 <i> Now that is more like it! We can immediately start looking into the issue! Thanks!
 
-## ****Type of Tickets****
+#####Type of Tickets
 
 There are three types of ticket
 
