@@ -18,8 +18,8 @@
        * [Auto-Pulling Data](auto-pulling_data.md)
        * [Auto-Pushing Data](auto-pushing_data.md)
    * [Evidence](evidence.md)
+   * [New Releases](new_releases.md)
    * delete
-* [New Releases](new_releases.md)
 * [Feedback and Support](support_and_feedback.md)
 * [Trainer Resources](other_resources.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
