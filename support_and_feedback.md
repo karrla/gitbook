@@ -15,23 +15,25 @@
 
 We welcome and encourage your feedback and requests. Please provide requests and feedback through the following tools/channels. For the best response, please follow the "how to
 
-###**Tola-Users Slack channel** 
-Join the discussions about Tola with other Tola users
-Tola.Work is our work queue for Tola. Please report your requests by filling out a ticket. Please first search existing tickets to see if someone has already reported the issue or the requested enhancement. 
+###**TolaData-Users Slack channel** 
+Join the discussions about TolaData with other TolaData users
 
-Search: http://tola.work/helpdesk/tickets/
-Vote!: Each ticket has a vote/thumbs up or down button. Please vote for enhancements you think are important. Each vote for a ticket will bring the issue higher in the Tola work queue.
+[Tola.Work](http://tola.work) is our work queue for the whole TolaData system. Please report your requests by filling out a ticket. Please first search existing tickets to see if someone has already reported the issue or the requested enhancement. 
+
+[Search](http://tola.work/helpdesk/tickets/)
+ and [Vote!](http://tola.work/helpdesk/tickets/)
+Each ticket has a vote/thumbs up or down button. Please vote for enhancements you think are important. Each vote for a ticket will bring the issue higher in the Tola work queue.
 Best practices entering a ticket: When entering a problem or bug ticket, please add the following:  
 
-What browser are you using?
+<i>What browser are you using?
 
-What, if any, error message did you get?
+<i>What, if any, error message did you get?
 
-What did you expect to happen?
+<i>What did you expect to happen?
 
-What did happened? 
+<i>What did happened? 
 
-###Examples of Tola.Work tickets
+###Examples of [Tola.Work](http://tola.work) tickets
 
 **Unhelpful request: **
 
@@ -44,7 +46,7 @@ When clicking the submit button under Project (ID Number) > Program Agreement (N
   Paste in your Error message and the Page URL
 
 
-## ****Type of Tickets: definitions****
+## ****Type of Tickets****
 
 
 
@@ -54,7 +56,7 @@ When clicking the submit button under Project (ID Number) > Program Agreement (N
 
 **Enhancement**: Anything you'd like to see added or changed, but is not broken. Enhancements requests need votes to get pushed up to the Tola.Work queue
 
-##**Tola Form Guides**
+##**TolaData Form Guides**
 Guidance to all Tola Activity Forms can be found on each form page by clicking the blue Form Help/Guidance button on the page.
 
 
@@ -63,12 +65,13 @@ Form Guides are also accessible from the Tola Data Public Google Drive folder.
 
 All Form and Form Guides are managed by the Tola project team and need to go through Tola.Work change requests. See Form and Form Guide Change Requests
 
-##Tola How-To Screencasts 
+##TolaData How-To Screencasts 
 
 If you would like to add to the screencast, please help us out and create your own to add to the channel, we welcome the help.
 
-** See out YouTube Channel!
-**
-The channel includes how to steps on: linking evidence, filling in the project agreement and completion forms, creating custom and standard indicators, a full demo of Tola activity and Tola Tables and many more. 
+** [See our YouTube Channel!](https://www.youtube.com/channel/UCBVZf-TVxQ3aNhJUOXB71nQ)
+
+
+The channel includes how to steps on: linking evidence, filling in the project initiation and tracking forms, creating custom and standard indicators, a full demo of TolaActivity and TolaTables and many more. 
 
 
