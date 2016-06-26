@@ -96,4 +96,3 @@ If you would like to add to the screencast, please help us out and create your o
 
 The channel includes how to steps on: linking evidence, filling in the project initiation and tracking forms, creating custom and standard indicators, a full demo of TolaActivity and TolaTables and many more. 
 
-
