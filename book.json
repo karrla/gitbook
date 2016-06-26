@@ -2,7 +2,8 @@
     "plugins": [
         "expandable-chapters",
         "page-toc",
-        "layout"
+        "layout",
+        "comment"
     ],
     "pluginsConfig": {
         "page-toc": {
