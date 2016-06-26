@@ -3,8 +3,17 @@ A site defines the geographical location(s) of a program.
 
 
 ---
+###Value of Monitoring Sites
+* 
+Sites provides the ability to generate a visualization of our program/project locations on a map. 
+* 
+It allows teams to monitor performance within a specific location. 
+* 
+Supports the ability to manage in areas with remote access. 
+* 
+Over time, it allows teams to track the history of interventions showing how the programming has evolved.
 
-##Site Form includes:
+##Site Form:
 
 * 
 Profile: description and contact info 
@@ -16,11 +25,9 @@ Demographic Information: household (SADD), land, literacy, source documentation
 Approvals
 
 
-Sites provides the ability to generate a visualization of our program/project locations on a map. 
-It allows managers to monitor performance within a specific location. 
-Supports our ability to manage in areas with remote access. 
-Over time, it allows us to track the history of our interventions showing how our programming has evolved.
 
+
+###Adding Sites
 Sites can be entered through the Site Form in TolaActivity 
 
 ![](EnteringSites.gif)
