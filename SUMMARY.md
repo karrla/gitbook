@@ -25,5 +25,6 @@
    * [Trainer Resources](other_resources.md)
    * delete
    * Using TolaTables
+   * Using TolaActivity
 * [Feedback and Support](support_and_feedback.md)
 
