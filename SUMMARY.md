@@ -21,8 +21,8 @@
 * [Releases Notes for Users](new_releases.md)
 * [Glossary of Terms](glossary.md)
 * [Support Documentation](support_documentation.md)
-   * [Importing Data](tolatables_importing.md)
    * Using TolaTables
+   * [Importing Data](tolatables_importing.md)
    * Using TolaActivity
 * [Trainer Resources](other_resources.md)
 * [Feedback and Support](support_and_feedback.md)
