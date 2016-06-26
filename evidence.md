@@ -9,7 +9,7 @@ Data-Driven Decision Making
 
 Each time you enter newly collected data for your Program Indicators in Tola Activity, you will want to link evidence to that data. Evidence can be in many formats.
 
-#Four Types of Evidence
+###Four Types of Evidence
 
 #####<u>Type 1: Mobile Data + Table Evidence (tabular)
 
@@ -24,3 +24,5 @@ All other evidence documents will be entered into Tola Activity directly in the 
 
 #####<u>Type 4: No Evidence :(
  
+###Entering 
+![](EnteringEvidence.gif)
