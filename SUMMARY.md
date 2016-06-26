@@ -6,8 +6,8 @@
        * [Workflow](workflow.md)
        * [Projects](project_workflow.md)
        * [Sites](sites.md)
+       * [Stakeholders](stakeholders.md)
        * delete
-   * [Stakeholders](stakeholders.md)
    * [Documents](documents.md)
    * [Indicator Tracking](indicator_tracking.md)
 * [Evidence](evidence.md)
