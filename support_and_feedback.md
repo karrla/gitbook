@@ -25,6 +25,9 @@ Our friendly diagram to help all of us decide when an idea should become reality
 fig.1 [Search](http://tola.work/helpdesk/tickets/)
  and [Vote!](http://tola.work/helpdesk/tickets/)
 ###Tickets
+
+####Entering Ticket
+
 New to the idea of entering tickets? <br> Here are some good questions to answer when entering a new [Tola.Work](http://tola.work) ticket 
 
 <i>What browser are you using?
