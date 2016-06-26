@@ -30,20 +30,24 @@ fig.1 [Search](http://tola.work/helpdesk/tickets/)
 
 New to the idea of entering tickets? <br> Here are some good questions to answer when entering a new [Tola.Work](http://tola.work) ticket 
 
+* 
 <i>What browser are you using?
 
+* 
 <i>What, if any, error message did you get?
 
+* 
 <i>What did you expect to happen?
 
+* 
 <i>What did happened? 
 
-#####Example of a ticket lacking the details we need:
+#####<u>Example of a ticket lacking the details we need:
 " I found an error when I was working in Tola Activity."
 
 <i>We truly want to get to fixing the issue for you, but it's hard to know where to start troubleshooting without more information...
 
-**....And good ticket: **
+**<u>....And good ticket: **
 
 "When clicking the submit button under Project (ID Number) then Program Initiation (Name of the Initiation)  and then Executive Summary, I get an error. 
 <br><br>
