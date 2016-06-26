@@ -13,5 +13,5 @@
 * [New Releases](new_releases.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Glossary of Terms](chapter1md.md)
-* [Feedback](support_and_feedback.md)
+* [Feedback and TolaData-User Commnity](support_and_feedback.md)
 
