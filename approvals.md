@@ -1,14 +1,13 @@
 # Tola Activity Approvals
 
 
-Approval provides teams the ability to manage the acceptance of certain data entered into the system and do not transfer as approvals in other systems, like the agency's procurement system or financial systems 
-
-
 ---
 
 
 
 ###Approvals
+
+Approval provides teams the ability to manage the acceptance of certain data entered into the system and do not transfer as approvals in other systems, like the agency's procurement system or financial systems 
 
 #####<u>States of Approvals
 * 
