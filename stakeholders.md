@@ -2,12 +2,13 @@
 
 A stakeholder defines who the program is working with.
 
-Stakeholders are persons or organizations whether in the public, private or civil sector, whose interests may be positively or negatively affected by Project Team decisions, actions and ensuing results.
+
 
 
 
 ---
-
+###Stakeholders
+Stakeholders are persons or organizations whether in the public, private or civil sector, whose interests may be positively or negatively affected by Project Team decisions, actions and ensuing results.
 
 ###Stakeholder Form
 The Stakeholder form includes:
