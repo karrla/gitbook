@@ -5,10 +5,10 @@
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
    * [Project Workflow](project_workflow.md)
+   * Defining a Program & Project
    * [Indicator Tracking](indicator_tracking.md)
    * Stakeholders
    * [Sites](sites.md)
-   * Defining a Program & Project
 * [Evidence](evidence.md)
 * [TolaTables](tolatables.md)
    * [TolaTable Overview](tola_table_overview.md)
