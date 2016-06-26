@@ -13,15 +13,13 @@ More details or to view other release history please see: https://github.com/tol
 
 
 
-## May 31st 2016
+May 31st 2016
 
-
----
 
 
 ### Workflow Form Name Changes: 
 
-### Project Initiations and Project Tracking Forms
+<b> Project Initiations and Project Tracking Forms
 
 
 
@@ -53,14 +51,9 @@ Tracks and documents what actually happened (dates, budget, results) in a projec
 ---
 
 
-## 
-## Indicator Visual Report Filters
+####Indicator Visual Report Filters
 
-
-
-## 
-
-###  [Tola.Work: 513](http://tola.work/helpdesk/tickets/513/)
+<b>  [Tola.Work: 513](http://tola.work/helpdesk/tickets/513/)
 Indicator Visual Report Filters fixed 
 
 
@@ -72,13 +65,13 @@ Indicator Visual Report Filters fixed
 
 
 May 27th, 2106
-Updates and Fixes to "Send to TolaActivity" from TolaTables
+####Updates and Fixes to "Send to TolaActivity" from TolaTables
 
 
 
 
 May 22, 2016 
-Footer Update 
+####Footer Update 
 TolaData: Built by MercyCorps
 
 
@@ -86,10 +79,10 @@ TolaData: Built by MercyCorps
 
 
 
-API Updates
+####API Updates
 Further restriction based on user's access to API
 
-Form Guidances Administration Moved to Admin
+####Form Guidances Administration Moved to Admin
 Form Guidance URLs are now managed in Admin. 
 Form Guidance Admins no longer need to overwrite the current document to retain the same URL. 
 
@@ -107,7 +100,8 @@ Form Guidance Admins no longer need to overwrite the current document to retain 
 
 
 May 21st, 2016
-New Program ID - GAIT Links Removed
+
+####New Program ID - GAIT Links Removed
 All links to GAIT were removed from the Program Names and replaced with Program IDs
 
 
@@ -115,16 +109,13 @@ All links to GAIT were removed from the Program Names and replaced with Program 
 ---
 
 
-## May 20th, 2016
+ May 20th, 2016
+
+##### Indicator Report "Export All" Fixed
 
 
+<b>[Tola.Work:194](http://tola.work/helpdesk/tickets/194/) 
 
----
-
-
-### [Tola.Work:194](http://tola.work/helpdesk/tickets/194/) 
-
-### Indicator Report "Export All" Fixed
 
 
 
@@ -147,62 +138,43 @@ All links to GAIT were removed from the Program Names and replaced with Program 
 
 
 ---
+May 11, 2016
 
 
-
-## May 11, 2016
-
-
-
----
-
-
-
-### More work on Custom Dashboards. Coming soon!
+#### More work on Custom Dashboards. Coming soon!
 
 
 
 
 ---
+ May 9th, 2016 
 
 
 
-## May 9th, 2016 
+<b> [Tola.Work:477](http://tola.work/helpdesk/tickets/477/)
+
+#### Admin Updates and New Document link fixed
 
 
----
+#### Country Search in Admin for Strategic Objectives fixed
 
 
-### [Tola.Work:477](http://tola.work/helpdesk/tickets/477/)
-
-### Admin Updates and New Document link fixed
-
-
-### Country Search in Admin for Strategic Objectives fixed
-
-
-### New "Unique Column" Alert 
+#### New "Unique Column" Alert 
 
 
 Users will now see a message in TolaTables, when turning on Auto-Pull or Auto-Push, if they have not set up a unique column.
 
 
-### Concatenate/Join Merge Fixed in TolaTables
+#### Concatenate/Join Merge Fixed in TolaTables
 
 
 ---
-
-
-
-## May 5th, 2016
-
-
----
+May 5th, 2016
 
 
 
 
-### New Scripts to Import Admin Levels
+#### New Scripts to Import Admin Levels
 
 
 
