@@ -20,9 +20,9 @@
             "copyrightColor": "#666",
             "utcOffset": "8",
             "isShowQRCode": true,
-            "baseUri": "https://toladata.com",
+            "baseUri": "https://toladata.com/",
             "isShowIssues": true,
-            "repo": "github/toladata",
+            "repo": "toladata",
             "token": "",
             "style": "normal"
         }  
