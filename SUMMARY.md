@@ -24,5 +24,6 @@
 * [Support Documentation](support_documentation.md)
    * [Trainer Resources](other_resources.md)
    * delete
+   * Using TolaTables
 * [Feedback and Support](support_and_feedback.md)
 
