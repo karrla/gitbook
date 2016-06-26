@@ -20,14 +20,14 @@ Putting adaptive project management into practice
 
 
 
-Documents basic information about a geographic location we work in, the GPS coordinates of that location, and basic demographic information if relevant. This documents the WHERE. 
+Documents basic information about a geographic location, the GPS coordinates of that location, and basic demographic information if relevant. This documents the WHERE. 
 
 
 ### **Stakeholder profile**
 
 
 
-Documents primary stakeholders we work with (partners, communities, businesses/entities, etc.) and information about them. This documents the WHO.
+Documents primary stakeholders who is part of one or more projects (partners, communities, businesses/entities, etc.) and information about them. This documents the WHO.
 
 ### Project Initiation and Tracking Forms
 
