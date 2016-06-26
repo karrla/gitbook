@@ -8,6 +8,7 @@
    * [Indicator Tracking](indicator_tracking.md)
    * [Approvals](approvals.md)
    * Sites
+   * Stakeholders
 * [Evidence](evidence.md)
    * Merge Data
 * [TolaTables](tolatables.md)
