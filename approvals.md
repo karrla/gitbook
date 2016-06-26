@@ -8,13 +8,15 @@ Approval provides teams the ability to manage the acceptance of certain data ent
 
 
 
-####Four states of Tola Activity Approvals
+###TolaActivity Approvals
+
+#####<u>States of Approvals
 progress
 awaiting approval
 approved 
 rejected. 
 
-####Tola Activity Forms with Approvals:**  
+#####<u>Tola Activity Forms with Approvals: 
 Sites, Stakeholders, Indicators, Project Initiations & Project Tracking Forms
 
 ####Approvers:
@@ -22,34 +24,24 @@ Anyone can approve Sites, Stakeholders, and Indicators. (Sites are usually revie
 
 Project Initiations & Project Tracking Forms can only be approved by users in the Approvers group. 
 
-####Approvers Group:
+#####<u>Approvers Group:
 To assign someone as an Approver in Tola Activity, they need to be added to the Approvers group in the Admin Console. 
 
-####Approval Notifications:
+#####<u>Approval Notifications:
 When a Initiations & Project Tracking Forms is set to “Awaiting Approval” the email notification goes out to all Approvers in the country letting them know the Project Initiations & Project Tracking Forms is ready to be approved. Approval email notifications are not (currently) limited by fund codes or Programs.
 
-####Limiting Tola Activity Approvals:
+####Limiting TolaActivity Approvals:
 Teams can limit approvals in Tola Activity on Initiations & Project Tracking Forms by turning on “Tola Approval Authority budget limits” for certain programs and assigning specific budget limits to specific Approvers in the Admin Console. See screencast
 
-####Tola Approval Authority:
-The budget limit set for each approver is decided separately by each country team depending on the complexity of their programs. Tola approval matrix is not the same as the Approval Authority Matrix (AAM) used by Finance.
+#####<u>Tola Approval Authority:
+The budget limit set for each approver is decided separately by each country team depending on the complexity of their programs. 
 
-####Project Initiation Approvals:
+#####<u>Project Initiation Approvals:
 Once a Project Initiation is approved a Project Tracking form will be created, and the Project Agreement will be set to read-only once that Project Completion is saved. 
 
-####Project Initiation Approvals Tab: 
-* 
-Originators:  
-* 
-Verifications (optional): 
-* 
-Finance Reviews (optional): 
-* 
-M&E Reviews (optional): 
-* 
-Approvals: 
-* 
-FAQ: Tola Activity Approvals
+
+
+###FAQ: Tola Activity Approvals
 
 
 ####What does it mean to approve a Site?
@@ -81,17 +73,15 @@ Relevant disaggregations are added
 * 
 Reporting frequency is added, this is mandatory
 
-####What is the difference between reviewing a Project Initiation and approving a Project Initiation?
+####What is the difference between reviewing and approving?
 
 #####Field verification 
 * 
 Usually done by field program officer
-*Executive Summary and Description * 
 * 
-Justification tab is reviewed
+Executive Summary and Description and  Justification tab is reviewed
 * 
 Field staff will verify that the correct sites and stakeholders are added
-
 * 
 Relevant documents are attached e.g. agreements, MoUs, Bill of quantity (BoQ), Purchase Request (PR)
 
