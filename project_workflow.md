@@ -1,17 +1,7 @@
-# Project Workflow
-
-Project Workflow is a set of standard forms that are used for project or activity-level management, facilitating traceability of data through documentation of evidence.
+# Project Forms
 
 
 ---
 
-###Project
-A project is a unique product, service, or result. Managing a Project is the discipline of planning, organizing, and managing resources to bring about the successful delivery of specific **project objectives** while balancing the competing demands of time, scope, cost. 
+ 
 
-###Site
-
-Documents basic information about a geographic location, the GPS coordinates of that location, and basic demographic information if relevant. This documents the WHERE. 
-
-###Stakeholder 
-
-Documents primary stakeholders who is part of one or more projects (partners, communities, businesses/entities, etc.) and information about them. This documents the WHO.
