@@ -12,7 +12,6 @@
        * [Administering TolaActivity](administering_tolaactivity.md)
    * [TolaTables](tolatables.md)
        * [TolaTable Overview](tola_table_overview.md)
-       * [Importing Data](tolatables_importing.md)
        * [Clean Data](clean_data.md)
        * [Merge Data](merge_data.md)
        * [Auto-Pulling Data](auto-pulling_data.md)
@@ -22,6 +21,7 @@
 * [Releases Notes for Users](new_releases.md)
 * [Glossary of Terms](glossary.md)
 * [Support Documentation](support_documentation.md)
+   * [Importing Data](tolatables_importing.md)
    * Using TolaTables
    * Using TolaActivity
 * [Trainer Resources](other_resources.md)
