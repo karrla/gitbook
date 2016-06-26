@@ -9,6 +9,7 @@
        * [Stakeholders](stakeholders.md)
        * [Documents](documents.md)
        * [Indicator Tracking](indicator_tracking.md)
+   * Administering TolaActivity
 * [Evidence](evidence.md)
 * [TolaTables](tolatables.md)
    * [TolaTable Overview](tola_table_overview.md)
