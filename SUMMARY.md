@@ -11,8 +11,8 @@
 * [TolaTables](tolatables.md)
    * [TolaTable Overview](tola_table_overview.md)
    * [Importing Data](tolatables_importing.md)
-   * Merge Data
    * Clean Data
+   * Merge Data
    * Auto-Pulling Data
    * Auto-Pushing Data
 * [New Releases](new_releases.md)
