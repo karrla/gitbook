@@ -1,5 +1,5 @@
 
-# # TolaData Release Notes for Users
+# TolaData Release Notes for Users
 
 
 Return to Main Page
@@ -46,11 +46,6 @@ Tracks and documents what actually happened (dates, budget, results) in a projec
 
 
 
-
-
----
-
-
 ####Indicator Visual Report Filters
 
 <b>  [Tola.Work: 513](http://tola.work/helpdesk/tickets/513/)
@@ -64,10 +59,18 @@ Indicator Visual Report Filters fixed
 
 
 
+---
+
+
+
 May 27th, 2106
 ####Updates and Fixes to "Send to TolaActivity" from TolaTables
 
 
+
+
+
+---
 
 
 May 22, 2016 
@@ -190,18 +193,12 @@ There are now links back to Table View from Table edit page and back from Table 
 
 
 ---
+ May 3rd, 2016
 
 
 
-## May 3rd, 2016
 
-
-
----
-
-
-
-### New "View Only" User Group
+#### New "View Only" User Group
 
 
 Admins can now assign users View Only access. All new users will have "View Only" access until an Admin adds removes them from View Only and adds them to one of the other User Groups. If a user is assigned View Only group, they will not be able to edit any of the forms and will receive “Access Denied” pages for sections they cannot edit. 
@@ -211,7 +208,7 @@ Admins can now assign users View Only access. All new users will have "View Only
 
 
 
-### Data Collected Form Update Achieved Count from TolaTable
+#### Data Collected Form Update Achieved Count from TolaTable
 
 
 The achieved count in your Data Collected Form for your indicators can now be updated automatically with the unique count total of a linked TolaTable
@@ -225,17 +222,6 @@ The achieved count in your Data Collected Form for your indicators can now be up
 
 
 
-
-
-
-
-
-
-
-
-
-Visit tola.work
-Return to the Top
 
 
 
