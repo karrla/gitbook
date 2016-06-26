@@ -12,7 +12,8 @@ TolaData addresses the challenges of existing humanitarian M&E systems by bringi
 
 Data-driven learning is at the heart of TolaData to help you achieve a greater impact for your program.
 
-##Tola: A Pashto word meaning 'Complete'.
+##Tola: 
+###A Pashto word meaning 'Complete'.
 
 
 TolaData combines M&E processes with open data and open source tools to provide a dynamic platform for data discovery and high-impact analysis. TolaData helps you to standardize your data needs while at the same time remaining flexible enough to meet the ever-changing demands of an international team.
