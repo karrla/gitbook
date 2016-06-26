@@ -3,6 +3,7 @@
 * [TolaData](README.md)
 * [TolaActivity](tolaactivity.md)
    * [TolaActivity Overview](tola_activity_overview.md)
+       * delete
    * [Workflow](workflow.md)
    * [Projects](project_workflow.md)
    * [Sites](sites.md)
