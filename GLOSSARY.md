@@ -5,7 +5,7 @@ A project is a unique product, service, or result. Managing a Project is the dis
 
 ##Site
 
-The location and GPS coordinates of that location, and basic demographic information if relevant. This documents the WHERE.
+Documents basic information about a geographic location, the GPS coordinates of that location, and basic demographic information if relevant. This documents the WHERE. 
 
 ##Stakeholder 
 
