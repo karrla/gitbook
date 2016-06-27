@@ -1,11 +1,12 @@
 /* CSS for website */
 
 page-toc {
-
-a:active {
-   color: #686868;
-   text-decoration: underline;
+  a:active {
+     color: #686868;
+     text-decoration: underline;
+  }
 }
+
 
 a:link {
     color: #686868;
