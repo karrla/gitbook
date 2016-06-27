@@ -20,12 +20,12 @@
        * [Activity Approvals](activity_approvals.md)
    * [Administering TolaActivity](administering_tolaactivity.md)
    * [Using TolaTables](using_tolatables.md)
+       * [Importing Data](tolatables_importing.md)
        * [Merge Data](merge_data.md)
        * [Clean Data](clean_data.md)
        * [Auto-Pulling Data](auto-pulling_data.md)
        * [Auto-Pushing Data](auto-pushing_data.md)
        * Share Data
-       * [Importing Data](tolatables_importing.md)
    * [Feedback and Support](support_and_feedback.md)
    * [Trainer Resources](other_resources.md)
    * [Browser Support](browser_support.md)
