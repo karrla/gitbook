@@ -21,8 +21,8 @@
    * [Administering TolaActivity](administering_tolaactivity.md)
    * [Using TolaTables](using_tolatables.md)
        * [Importing Data](tolatables_importing.md)
-       * [Merge Data](merge_data.md)
        * [Clean Data](clean_data.md)
+       * [Merge Data](merge_data.md)
        * [Auto-Pulling Data](auto-pulling_data.md)
        * [Auto-Pushing Data](auto-pushing_data.md)
        * Share Data
