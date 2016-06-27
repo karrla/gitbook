@@ -29,5 +29,5 @@
        * [Importing Data](tolatables_importing.md)
    * [Browser Support](browser_support.md)
 * [Trainer Resources](other_resources.md)
-* [Glossary of Terms](glossary.md)
+* [Glossary of Terms](GLOSSARY.md)
 
