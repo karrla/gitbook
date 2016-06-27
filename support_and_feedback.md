@@ -30,7 +30,7 @@ Let's face it we all have great ideas, but sometimes there are so many great ide
 
 That's why we ask you discuss and vote! 
 
-Our friendly diagram to help all of us decide when an idea should become reality:
+####<u>TolaData TolaWork Decision Process 
 ![](images/TolaWorkRequest.png)
 fig.1 [Search](http://tola.work/helpdesk/tickets/)
  and [Vote!](http://tola.work/helpdesk/tickets/)
