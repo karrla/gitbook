@@ -28,6 +28,7 @@
    * [Feedback and Support](support_and_feedback.md)
    * [Trainer Resources](other_resources.md)
    * [Browser Support](browser_support.md)
+   * Screencasts
 * [Releases Notes for Users](new_releases.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Glossary of Terms](GLOSSARY.md)
