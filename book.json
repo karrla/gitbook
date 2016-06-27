@@ -1,7 +1,8 @@
 {
     "plugins": [
         "page-toc",
-        "expandable-chapters"
+        "expandable-chapters",
+        "localized-footer"
     ],
     "pluginsConfig": {}
 }
