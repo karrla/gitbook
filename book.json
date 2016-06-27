@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "page-footer"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
