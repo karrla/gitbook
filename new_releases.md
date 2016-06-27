@@ -7,9 +7,7 @@ These release notes start in May 2016 - Present
 More details or to view other release history please see find us on GitHub: https://github.com/toladata
 
 
-
 ---
-
 
 
 May 31st 2016
@@ -19,10 +17,6 @@ May 31st 2016
 <p style="font-size:20px"> <b> Workflow Form Name Changes: 
 
 <b> Project Initiations and Project Tracking Forms
-
-
-
-
 
 
 Agreements and Completions changed to:
