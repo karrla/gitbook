@@ -3,6 +3,20 @@
 page-toc {
 }
 
+a:link {
+    color: #686868;
+    text-decoration: none;
+}
+
+a:visited {
+        text-decoration: none;
+color: #686868;
+}
+
+a:hover {
+text-decoration: underline;
+color: #686868;
+}
 
 body {
 	color: #686868;
@@ -64,18 +78,5 @@ blockquote {
 
 }
 
-a:link {
-    color: #0094DE;
-    text-decoration: none;
-}
-a:visited {
-        text-decoration: none;
-color: #0094DE;
-}
 
-a:hover {
-text-decoration: underline;
-color: #DD127B;
-
-}
 }
