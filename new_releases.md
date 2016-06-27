@@ -1,10 +1,39 @@
 
 <p style="font-size:35px"> <b> TolaData Release Notes for Users
 
-
 These release notes start in May 2016 - Present
 
 More details or to view other release history please see find us on GitHub: https://github.com/toladata
+
+
+---
+
+
+
+June 21 2016
+
+<p style="font-size:20px"> <b>Added import JSON feed to TolaTables [TW:225](http://tola.work/helpdesk/tickets/225/http://tola.work/helpdesk/tickets/225/http://tola.work/helpdesk/tickets/225/)
+
+Import data from external services using their JSON feed
+
+
+
+
+<p style="font-size:20px"> <b>Unique Column Identifier 
+
+When a user sets a unique column the page identifier now refreshes so the user can see the column is now set as unique without having to reload the page. 
+
+
+
+<p style="font-size:20px"> <b>Updated "Update" button 
+
+Previously the Update button only updated merged tables, now you can use the Update button to do a manual pull of your data from JSON, Google Sheets and Ona source
+
+<p style="font-size:20px"> <b>Sort Projects in the Program Dashboard 
+
+
+
+
 
 
 ---
