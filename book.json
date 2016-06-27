@@ -4,6 +4,7 @@
         "expandable-chapters",
         "localized-footer": {
     "filename": "footer.md"
+    }
     ],
     "pluginsConfig": {}
     
