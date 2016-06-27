@@ -20,7 +20,7 @@
        * [TolaActivity API](tolaactivity_api.md)
        * [Creating Projects](creating_projects.md)
        * [Activity Approvals](activity_approvals.md)
-       * Project Initiation to Project Tracking 
+       * [Project Initiation to Project Tracking](project_initiation_to_project_tracking.md)
    * [Administering TolaActivity](administering_tolaactivity.md)
    * [Using TolaTables](using_tolatables.md)
        * [Merge Data](merge_data.md)
