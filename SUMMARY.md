@@ -13,7 +13,6 @@
        * [TolaTable Overview](tola_table_overview.md)
    * [Evidence](evidence.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
-* [Releases Notes for Users](new_releases.md)
 * [Support Documentation](support_documentation.md)
    * [Feedback and Support](support_and_feedback.md)
    * [Using TolaActivity](using_tolaactivity.md)
@@ -29,6 +28,7 @@
        * [Auto-Pushing Data](auto-pushing_data.md)
        * [Importing Data](tolatables_importing.md)
    * [Browser Support](browser_support.md)
+* [Releases Notes for Users](new_releases.md)
 * [Trainer Resources](other_resources.md)
 * [Glossary of Terms](GLOSSARY.md)
 
