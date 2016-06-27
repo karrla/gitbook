@@ -25,6 +25,12 @@ When a user sets a unique column the page identifier now refreshes so the user c
 
 ![](images/uuid.gif)
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <p style="font-size:20px"> <b>Updated "Update" button 
 
 Previously the Update button only updated merged tables, now you can use the Update button to do a manual pull of your data from JSON, Google Sheets and Ona source
