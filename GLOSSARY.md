@@ -1,4 +1,14 @@
 # Glossary
+<br>
+<br>
+<br>
+
+---
+
+
+
+
+
 
 ##Project
 A project is a unique product, service, or result. Managing a Project is the discipline of planning, organizing, and managing resources to bring about the successful delivery of specific **project objectives** while balancing the competing demands of time, scope, cost. 
