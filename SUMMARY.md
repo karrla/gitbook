@@ -25,6 +25,7 @@
        * [Auto-Pulling Data](auto-pulling_data.md)
        * [Auto-Pushing Data](auto-pushing_data.md)
        * [Importing Data](tolatables_importing.md)
+       * Share Data
    * [Feedback and Support](support_and_feedback.md)
    * [Trainer Resources](other_resources.md)
    * [Browser Support](browser_support.md)
