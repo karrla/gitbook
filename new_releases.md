@@ -23,14 +23,14 @@ Import data from external services using their JSON feed
 
 When a user sets a unique column the page identifier now refreshes so the user can see the column is now set as unique without having to reload the page. 
 
-
+![](images/uuid.gif)
 
 <p style="font-size:20px"> <b>Updated "Update" button 
 
 Previously the Update button only updated merged tables, now you can use the Update button to do a manual pull of your data from JSON, Google Sheets and Ona source
-
+![](images/updatebutton.gif)
 <p style="font-size:20px"> <b>Sort Projects in the Program Dashboard 
-
+![](images/programdashboardStatus.png)
 
 
 
