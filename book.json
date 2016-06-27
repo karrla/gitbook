@@ -4,6 +4,10 @@
         "expandable-chapters",
         "localized-footer"
     ],
-    "pluginsConfig": {}
-    
+    "pluginsConfig": {
+        "page-toc": {
+            "selector": " .markdown-section h2, .markdown-section h3, .markdown-section h4",
+            "position": "before-first"
+        }
+    }
 }
