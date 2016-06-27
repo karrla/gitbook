@@ -2,9 +2,7 @@
     "plugins": [
         "page-toc",
         "expandable-chapters",
-        "localized-footer": {
-    "filename": "footer.md"
-    }
+        "localized-footer"
     ],
     "pluginsConfig": {}
     
