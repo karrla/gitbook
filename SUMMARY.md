@@ -20,7 +20,7 @@
    * [Using TolaActivity](using_tolaactivity.md)
        * [TolaActivity API](tolaactivity_api.md)
        * [Creating Projects](creating_projects.md)
-       * Activity Approvals
+       * [Activity Approvals](activity_approvals.md)
    * [Using TolaTables](using_tolatables.md)
        * [Merge Data](merge_data.md)
        * [Clean Data](clean_data.md)
