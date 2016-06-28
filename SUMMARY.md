@@ -26,11 +26,11 @@
        * Share Data
        * [Auto-Pulling Data](auto-pulling_data.md)
        * [Auto-Pushing Data](auto-pushing_data.md)
-   * [Feedback and Support](support_and_feedback.md)
    * [Trainer Resources](other_resources.md)
    * [Browser Support](browser_support.md)
    * [Screencasts](screencasts.md)
 * [Releases Notes for Users](new_releases.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
+* [Feedback and Support](support_and_feedback.md)
 * [Glossary of Terms](GLOSSARY.md)
 
