@@ -14,7 +14,7 @@ We have a few tools to help us support you!
 
 
 
-###We are on **[Slack](https://tola-users.slack.com/messages/general/)!**:clap: <br>
+###We are on **[Slack](https://tola-users.slack.com/messages/general/)!** <br>
 Join the discussions! <br>
 Ask questions, get feedback, find answers...
 
