@@ -1,4 +1,4 @@
-# Feedback and Support
+# Feedback and Reporting Issues
 We <b>welcome and encourage</b> <br> your feedback and requests! <br>
 
 We have a few tools to help us support you!
@@ -14,7 +14,7 @@ We have a few tools to help us support you!
 
 
 
-###We are on **[Slack](https://tola-users.slack.com/messages/general/)!** <br>
+###We are on **[Slack](https://tola-users.slack.com/messages/general/)!**:clap: <br>
 Join the discussions! <br>
 Ask questions, get feedback, find answers...
 
