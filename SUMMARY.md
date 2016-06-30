@@ -12,7 +12,7 @@
    * [TolaTables](tolatables.md)
        * [TolaTable Overview](tola_table_overview.md)
    * [Evidence](evidence.md)
-* [Support Documentation](support_documentation.md)
+* [User's Guide](support_documentation.md)
    * [Using TolaActivity](using_tolaactivity.md)
        * [TolaActivity API](tolaactivity_api.md)
        * [Creating Projects](creating_projects.md)
