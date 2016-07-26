@@ -12,9 +12,9 @@ More details or to view other release history please see find us on GitHub: http
 
 June 21 2016
 
-<p style="font-size:20px"> <b>Added import JSON feed to TolaTables [TW:225](http://tola.work/helpdesk/tickets/225/http://tola.work/helpdesk/tickets/225/http://tola.work/helpdesk/tickets/225/)
+<p style="font-size:20px"> <b>Update: Added import JSON feed to TolaTables [TW:225](http://tola.work/helpdesk/tickets/225/http://tola.work/helpdesk/tickets/225/http://tola.work/helpdesk/tickets/225/)
 
-Import data from external services using their JSON feed
+Details: Import data from external services using their JSON feed
 
 ![](tola.hackpad.com_JGOr3lcCmUG_p.531143_1466543559292_Screen Shot 2016-06-21 at 2.10.02 PM.png)
 
