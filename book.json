@@ -16,6 +16,9 @@
             "base": "https://www.gitbook.com/book/karrlasandstrom/toladata/edit",
             "label": "Edit This Page",
             "multilingual": "false"
+        },
+        "advanced-emoji": {
+            "embedEmojis": true
         }
     }
 }
