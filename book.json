@@ -20,6 +20,15 @@
         },
         "advanced-emoji": {
             "embedEmojis": true
+        },
+        "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": true,
+            "weibo": false,
+            "instapaper": true,
+            "vk": false,
+            "all": "facebook,google,twitter,weibo,instapaper"
         }
     }
 }
