@@ -12,15 +12,7 @@
         "page-toc": {
             "selector": " .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
             "position": "before-first"
-        },
-        "editlink": {
-            "base": "https://www.gitbook.com/book/karrlasandstrom/toladata/edit",
-            "label": "Edit This Page",
-            "multilingual": "false"
-        },
-        "advanced-emoji": {
-            "embedEmojis": true
-        },
+        }
         "sharing": {
             "facebook": false,
             "twitter": false,
