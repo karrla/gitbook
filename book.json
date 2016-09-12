@@ -5,7 +5,8 @@
         "localized-footer",
         "youtube",
         "editlink",
-        "advanced-emoji"
+        "advanced-emoji",
+        "sharing"
     ],
     "pluginsConfig": {
         "page-toc": {
