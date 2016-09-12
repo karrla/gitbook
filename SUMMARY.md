@@ -31,6 +31,7 @@
    * [Screencasts](screencasts.md)
 * [Releases Notes for Users](new_releases.md)
    * [2016 - June 21](september_13th_2016.md)
+   * 2016 - September 13
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Feedback and Support](support_and_feedback.md)
