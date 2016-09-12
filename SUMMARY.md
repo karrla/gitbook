@@ -30,7 +30,7 @@
    * [Browser Support](browser_support.md)
    * [Screencasts](screencasts.md)
 * [Releases Notes for Users](new_releases.md)
-   * [September 13th 2016](september_13th_2016.md)
+   * [June 21 - 2016](september_13th_2016.md)
 * [What's New in TolaData?](whats_new_in_toladata.md)
 * [Glossary of Terms](GLOSSARY.md)
 * [Feedback and Support](support_and_feedback.md)
