@@ -6,7 +6,8 @@
         "youtube",
         "editlink",
         "advanced-emoji",
-        "sharing"
+        "sharing",
+        "share"
     ],
     "pluginsConfig": {
         "page-toc": {
