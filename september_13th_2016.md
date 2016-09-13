@@ -3,6 +3,12 @@
 
 June 21 2016
 
+
+
+---
+
+
+
 <p style="font-size:20px"> <b>Update: Added import JSON feed to TolaTables [TW:225](http://tola.work/helpdesk/tickets/225/http://tola.work/helpdesk/tickets/225/http://tola.work/helpdesk/tickets/225/)
 
 Details: Import data from external services using their JSON feed
@@ -17,10 +23,7 @@ When a user sets a unique column the page identifier now refreshes so the user c
 ![](images/uuid.gif)
 
 
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <p style="font-size:20px"> <b>Updated "Update" button 
 
