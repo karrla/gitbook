@@ -1,4 +1,4 @@
-# 2016 - September 13
+# September 13, 2016
 
 June 21 2016
 
