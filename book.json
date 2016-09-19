@@ -14,6 +14,19 @@
         },
         "advanced-emoji": {
             "embedEmojis": true
+        },
+        "rss": {
+            "title": "TolaData Releases",
+            "description": "TolaData Release",
+            "generator": "",
+            "site_url": "https://karrlasandstrom.gitbooks.io/",
+            "feed_url": "https://karrlasandstrom.gitbooks.io/",
+            "image_url": "",
+            "managingEditor": "",
+            "webMaster": "",
+            "categories": "",
+            "copyright": "",
+            "language": ""
         }
     }
 }
