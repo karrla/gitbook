@@ -4,7 +4,8 @@
         "expandable-chapters",
         "localized-footer",
         "youtube",
-        "advanced-emoji"
+        "advanced-emoji",
+        "rss"
     ],
     "pluginsConfig": {
         "page-toc": {
