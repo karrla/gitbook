@@ -14,6 +14,19 @@
         },
         "advanced-emoji": {
             "embedEmojis": true
+        },
+        "rss": {
+            "title": "TolaData Documentation",
+            "description": "",
+            "generator": "",
+            "site_url": "https://karrlasandstrom.gitbooks.io/toladata/",
+            "feed_url": "https://karrlasandstrom.gitbooks.io/toladata/content/new_releases.html",
+            "image_url": "",
+            "managingEditor": "",
+            "webMaster": "",
+            "categories": "",
+            "copyright": "",
+            "language": ""
         }
     }
 }
