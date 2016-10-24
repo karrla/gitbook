@@ -5,7 +5,8 @@
         "localized-footer",
         "youtube",
         "advanced-emoji",
-        "googledocs"
+        "googledocs",
+        "edit-link"
     ],
     "pluginsConfig": {
         "page-toc": {
