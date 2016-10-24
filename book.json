@@ -6,7 +6,8 @@
         "youtube",
         "advanced-emoji",
         "googledocs",
-        "edit-link"
+        "edit-link",
+        "editlink"
     ],
     "pluginsConfig": {
         "page-toc": {
