@@ -15,6 +15,10 @@
         },
         "advanced-emoji": {
             "embedEmojis": true
+        },
+        "edit-link": {
+            "base": "",
+            "label": "Edit This Page"
         }
     }
 }
