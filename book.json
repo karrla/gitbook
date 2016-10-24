@@ -6,7 +6,7 @@
         "youtube",
         "advanced-emoji",
         "googledocs",
-        "-edit-link"
+        "edit-link"
     ],
     "pluginsConfig": {
         "page-toc": {
@@ -16,7 +16,7 @@
         "advanced-emoji": {
             "embedEmojis": true
         },
-        "-edit-link": {
+        "edit-link": {
             "base": "",
             "label": "Edit This Page"
         }
