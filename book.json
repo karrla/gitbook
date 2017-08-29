@@ -16,7 +16,7 @@
             "embedEmojis": true
         },
         "edit-link": {
-            "base": "https://www.gitbook.com/karrla/toladata/edit/master/karrla.gitbooks.io/toladata/",
+            "base": "https://github.com/karrla/moobook/edit/master/",
             "label": "Edit This Page"
         }
     }
