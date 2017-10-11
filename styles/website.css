@@ -7,98 +7,30 @@ page-toc {
      font-weight: bold;
   }
 
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-nav,
-section {
-  display: block;
-}
-audio,
-canvas,
-video {
-  display: inline-block;
-  *display: inline;
-  *zoom: 1;
-}
-audio:not([controls]) {
-  display: none;
-}
-html,
 body {
   margin: 0;
   padding: 0;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-dd,
-dl,
-dt,
-li,
-ol,
-ul,
-fieldset,
-form,
-label,
-legend,
-button,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  line-height: 1;
-  font-family: inherit;
-}
+
 html {
   font-size: 62.5%;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
-a:hover,
+a:hover{
+  outline: 0;
+}
+
 a:active {
   outline: 0;
 }
-sub,
+sub{
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
 sup {
   position: relative;
   font-size: 75%;
@@ -121,31 +53,24 @@ img {
   -ms-box-sizing: border-box;
   box-sizing: border-box;
 }
-html,
+html {
+  height: 100%;
+}
+
 body {
   height: 100%;
 }
 body {
   background: #fff;
   margin: 0;
-  font-family: 'Helvetica Neue', Helvetica, 'Arial CE', Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, 'Arial CE', Arial, sans-serif;
   font-size: 14px;
   color: #333;
   margin: 0 auto 0;
   padding: 20px 0 0 0;
   width: 1300px;
 }
-.c {
-  *zoom: 1;
-}
-.c:before,
-.c:after {
-  display: table;
-  content: "";
-}
-.c:after {
-  clear: both;
-}
+
 h2 {
   margin: 35px 0 50px 0;
   font-size: 21px;
