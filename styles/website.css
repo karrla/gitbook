@@ -1,3 +1,12 @@
+/* CSS for website */
+
+page-toc {
+  a:active {
+     color: #686868;
+     text-decoration: underline;
+     font-weight: bold;
+  }
+
 article,
 aside,
 details,
