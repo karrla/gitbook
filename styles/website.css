@@ -25,6 +25,10 @@ a:visited {
 book-search-results .search-results .has-results .search-results-item a {
     color: #FFA21D
 }
+
+.book-summary ul.summary li.active>a {
+     color: #FFA21D;   
+      
 a:hover {
   text-decoration: underline;
   color: #FFA21D;
