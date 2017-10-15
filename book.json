@@ -1,26 +1,27 @@
-    {
+{
+    
     "plugins": [
         "page-toc",
         "expandable-chapters",
         "localized-footer",
         "youtube",
         "edit-link",
-        "page-toc-button"
+        "page-toc-button",
         ],
        
-    "pluginsConfig": {
-        "page-toc": {
-            "selector": " .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
-            "position": "before-first"
-            {
-        "page-toc-button": {
-            "maxTocDepth": 2,
-            "minTocSize": 2
-            {
-        "edit-link": {
-            "base": "https://github.com/karrla/moobook/edit/master/",
-            "label": "Suggest Changes or Edits to this Page"
-            }   
+        "pluginsConfig":{
+            "page-toc": {
+                "selector": " .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
+                "position": "before-first",
+                {
+            "page-toc-button": {
+                "maxTocDepth": 2,
+                "minTocSize": 2,
+                {
+            "edit-link": {
+                "base": "https://github.com/karrla/moobook/edit/master/",
+                "label": "Suggest Changes or Edits to this Page",
+                }   
         }
-    }
+}
 
