@@ -5,18 +5,20 @@
         "expandable-chapters",
         "localized-footer",
         "youtube",
-        "edit-link"]
+        "edit-link"
+        ],
        
     "pluginsConfig":{
             "page-toc": {
                 "selector": " .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
-                "position": "before-first",
+                "position": "before-first"
                 {
                
             "edit-link": {
                 "base": "https://github.com/karrla/moobook/edit/master/",
-                "label": "Suggest Changes or Edits to this Page",
+                "label": "Suggest Changes or Edits to this Page"
                 }   
         }
+}
 }
 
