@@ -20,7 +20,9 @@ As part of the TolaData offering, M&E and Data advisors can help your country pr
 ## Our Approach.
 
 TolaData’s approach utilizes the power of cloud-based technologies to improve program monitoring efforts. This means our platform allows you to sync data seamlessly regardless of your internet connectivity status.  
-Harnessing existing mobile technology provides a cost-effective alternative to traditional paper and pencil data collection methods, and by conducting surveys using tablets or even mobile phones, data collection times are reduced and beneficiary verification is improved.  
+Harnessing existing mobile technology provides a cost-effective alternative to traditional paper and pencil data collection methods, and by conducting surveys using tablets or even mobile phones, data collection times are reduced and beneficiary verification is improved.
+
+  
 Once data has been collected, TolaData blends it with simple workflow tools and a centralized database to allow for customized reporting that can integrate with third party software with low maintenance costs.
 
 ## Software and Data Science Combined.
@@ -29,6 +31,4 @@ The TolaData team is available for remote support or in-person trainings to help
 The combination of these tools and team support provide not just a verifiable set of data but a transferable learning experience that helps individual programs and countries adapt and grow while sharing information with stakeholders across the globe.
 
 We are building an open-source monitoring and evaluation platform that streamlines data, brings transparency and builds capacity for humanitarian projects.
-
-![](images/Infographic.png)
 
