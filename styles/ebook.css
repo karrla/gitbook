@@ -84,8 +84,3 @@ blockquote {
 }
 
 
-}
-img[alt$="-fullwidth"]{
-  width:  20%;
-  display: block;
-}
