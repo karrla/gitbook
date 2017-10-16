@@ -14,12 +14,11 @@ These three tiers of “readiness” will help the TolaData team make decisions 
 
 **TIER I: MINIMUM REQUIREMENTS**
 
-|  |  |
-| :--- | :--- |
-|  |  |
 
 
-![tick -fullwidth](/assets/tick orange.jpg)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="/assets/tick orange.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /> </a>
 
 
 ![](/assets/Screen Shot 2017-09-28 at 4.28.49 PM.png)Buy-in from country leadership and program managers.
@@ -35,8 +34,8 @@ These three tiers of “readiness” will help the TolaData team make decisions 
 
 While the items below are not mandatory for TolaData, they make a country better equipped for adoption of the system:
 
-* Digital Data Collection - use of digital data collection tools as applicable and relevant, authoring XLS forms, and adoption of third-party service provider like
-  [Ona](https://ona.io/)
+* Digital Data Collection - use of digital data collection tools as applicable and relevant, authoring XLS forms, and adoption of third-party service provider like 
+   [Ona](https://ona.io/)
   or
   [Kobo Toolbox](http://www.kobotoolbox.org/)
   .
