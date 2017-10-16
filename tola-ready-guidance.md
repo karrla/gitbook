@@ -18,7 +18,7 @@ These three tiers of “readiness” will help the TolaData team make decisions 
 | :--- | :--- |
 |  |  |
 
-{:.foo}
+
 ![tick -fullwidth](/assets/tick orange.jpg)
 
 
