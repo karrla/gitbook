@@ -1,7 +1,6 @@
 {
     
     "plugins": [
-        "page-toc",
         "expandable-chapters",
         "localized-footer",
         "youtube",
