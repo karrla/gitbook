@@ -2,6 +2,7 @@
     
     "plugins": [
         "expandable-chapters-interactive",
+        "expand-active-chapter",
         "localized-footer",
         "youtube",
         "edit-link"
