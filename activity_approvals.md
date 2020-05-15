@@ -131,4 +131,4 @@ Rejected PAs are archived
 
 
 ####Screencast: Setting Up Approvals 
-{% youtube %}https://www.youtube.com/watch?v=AOUcarN-28s{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=AOUcarN-28s {% endyoutube %}

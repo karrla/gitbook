@@ -1,23 +1,20 @@
 {
+    
     "plugins": [
-        "page-toc",
-        "expandable-chapters",
+        "expandable-chapters-interactive",
+        "expand-active-chapter",
         "localized-footer",
         "youtube",
-        "advanced-emoji",
         "edit-link"
-    ],
-    "pluginsConfig": {
-        "page-toc": {
-            "selector": " .markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
-            "position": "before-first"
-        },
-        "advanced-emoji": {
-            "embedEmojis": true
-        },
-        "edit-link": {
-            "base": "https://www.gitbook.com/book/karrlasandstrom/toladata/edit#/edit/master/",
-            "label": "Edit This Page"
+        ],
+       
+    "pluginsConfig":{
+               
+            "edit-link": {
+                "base": "https://github.com/karrla/moobook/edit/master/",
+                "label": "Suggest Changes or Edits to this Page"
+                }   
         }
-    }
+   
 }
+
